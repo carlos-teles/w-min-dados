@@ -155,6 +155,8 @@ prop_64_itemized = prop_64_filings.merge(
 )
 print len(prop_64_itemized)
 
+prop_64_itemized.drop('FILER_ID', axis=1, inplace=True)
+prop_64_itemized.to_csv("/tmp/prop_64_contributions.csv", index=False)
 
 
 
