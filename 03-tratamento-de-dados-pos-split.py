@@ -37,6 +37,8 @@ def verify_file_exists ( name ):
 	if not os.path.exists(path):
 		print "DOWNLOAD file: "+path
 		sys.exit(0)
+	else:
+		return path
 
 def verify_file_exists_and_split( name ):
 	list_files = glob.glob('/tmp/'+name+'*')
@@ -49,7 +51,8 @@ def verify_file_exists_and_split( name ):
 		sys.exit(0)
 
 verify_file_exists_and_split( "rcpt_cd" )
-verify_file_exists( "filer_filings_cd" )
+ff_path = verify_file_exists( "filer_filings_cd" )
+
 
 def rcpt_part_to_dataframe(part_name):
 	"""
