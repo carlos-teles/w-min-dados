@@ -79,11 +79,13 @@ def call_generate_csv_propose( num_of_propose ):
 	itemized_receipts_df_h = rcpt_part_to_dataframe("h")
 	itemized_receipts_df_i = rcpt_part_to_dataframe("i")
 	itemized_receipts_df_j = rcpt_part_to_dataframe("j")
+	itemized_receipts_df_k = rcpt_part_to_dataframe("k")
 
 	recent_itemized_receipts = pandas.concat([
 	    itemized_receipts_df_h,
 	    itemized_receipts_df_i,
-	    itemized_receipts_df_j
+	    itemized_receipts_df_j,
+	    itemized_receipts_df_k
 	])
 
 	real_recent_itemized_receipts = remove_amended_filings(recent_itemized_receipts)
