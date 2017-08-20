@@ -181,6 +181,38 @@ def call_generate_csv_propose( num_of_propose ):
 			{"COMMITTEE_ID":"1387641","COMMITTEE_NAME":"Consumer Watchdog Campaign to Lower Drug Prices, Yes on 61, Major Funding by AIDS Healthcare Foundation"},
 			{"COMMITTEE_ID":"1376791","COMMITTEE_NAME":"Yes on Prop 61, Californians for Lower Drug Prices, with major funding by AIDS Healthcare Foundation and California Nurses Association PAC"} 
 		],
+		62: [ 
+			{"COMMITTEE_ID":"1385745","COMMITTEE_NAME":"Fund for Policy Reform Nonprofit 501(c)(4), sponsored by Fund for Policy Reform, Yes on Propositions 57, 62, and 64, K, and L and No on Proposition 66, in support of marijuana legalization, parole for nonviolent offenders, repeal of the death penalty, November runoffs and voting on initiatives and referenda in November."},
+			{"COMMITTEE_ID":"1391170","COMMITTEE_NAME":"Million Voter Project Action Fund - Yes on 55, 56, 57, 58, 62, and No on 66, Sponsored by Social Justice Organizations"},
+			{"COMMITTEE_ID":"1390529","COMMITTEE_NAME":"Volunteers for Yes on 62"},
+			{"COMMITTEE_ID":"1380590","COMMITTEE_NAME":"Yes on 62. Replace the Costly, Failed Death Penalty System. Sponsored by Taxpayers for Sentencing Reform"} 
+		],
+		63: [ {"COMMITTEE_ID":"1380675","COMMITTEE_NAME":"Safety For All, Yes on Prop. 63, Newsom Ballot Measure Committee"} ],
+		64: [ 
+			    {"COMMITTEE_ID":"1343793","COMMITTEE_NAME":"Californians for Responsible Marijuana Reform, Sponsored by Drug Policy Action, Yes on Prop. 64"},
+			    {"COMMITTEE_ID":"1376077","COMMITTEE_NAME":"Californians for Sensible Reform, Sponsored by Ghost Management Group, LLC dba Weedmaps"},
+			    {"COMMITTEE_ID":"1385506","COMMITTEE_NAME":"Drug Policy Action - Non Profit 501c4, Yes on Prop. 64"},
+			    {"COMMITTEE_ID":"1385745","COMMITTEE_NAME":"Fund for Policy Reform (Nonprofit 501(C)(4))"},
+			    {"COMMITTEE_ID":"1371855","COMMITTEE_NAME":"Marijuana Policy Project of California"},
+			    {"COMMITTEE_ID":"1382525","COMMITTEE_NAME":"New Approach PAC (MPO)"},
+			    {"COMMITTEE_ID":"1386560","COMMITTEE_NAME":"The Adult Use Campaign for Proposition 64"},
+			    {"COMMITTEE_ID":"1381808","COMMITTEE_NAME":"Yes on 64, Californians to Control, Regulate and Tax Adult Use of Marijuana While Protecting Children, Sponsored by Business, Physicians, Environmental and Social-Justice Advocate Organizations"}
+		],
+		65: [ {"COMMITTEE_ID":"1372902","COMMITTEE_NAME":"American Progressive Bag Alliance, a Project of the Society of the Plastics Industry (Non-Profit 501 (c) (6)), Yes on 65 and No on 67"} ],
+		66: [
+			 {"COMMITTEE_ID":"1302403","COMMITTEE_NAME":"California Correctional Peace Officers Association Truth in American Government Fund; No on Proposition 62, Yes on Proposition 66 (Non-Profit 501(C)5)"},
+			 {"COMMITTEE_ID":"1346266","COMMITTEE_NAME":"Californians to Mend, Not End, the Death Penalty. No on Prop 62, Yes on Prop 66. Supported by Prosecutors, Law Enforcement, and Families of Victims."},
+			 {"COMMITTEE_ID":"1336580","COMMITTEE_NAME":"Los Angeles Police Protective League Issues PAC - Yes on 66"},
+			 {"COMMITTEE_ID":"1317554","COMMITTEE_NAME":"San Francisco Police Officers Association Issues PAC - Yes on 66, No on 62"}
+		],
+		67: [ 
+			{"COMMITTEE_ID":"1372900","COMMITTEE_NAME":"California vs. Big Plastic, Protect the Plastic Bag Ban, Sponsored by Environmental, Ocean Protection, Grocery Store, Reusable Bag Manufacturer, Business and Other Nonprofit Organizations"},
+			{"COMMITTEE_ID":"1374885","COMMITTEE_NAME":"Californians Against Waste - Protect the Plastic Ban (Non-Profit 501 (C) (4))"},
+			{"COMMITTEE_ID":"1346973","COMMITTEE_NAME":"Committee to Protect the Plastic Bag Ban, Sponsored by the California Grocers Association (Non-Profit 501(c) 6): No on Proposition 67"},
+			{"COMMITTEE_ID":"1329332","COMMITTEE_NAME":"Save the Bag Ban, Sponsored by Environment California"},
+			{"COMMITTEE_ID":"1389817","COMMITTEE_NAME":"Save the Bay Action Fund Committee to Support Proposition 67"},
+			{"COMMITTEE_ID":"1381938","COMMITTEE_NAME":"Save the Bay Action Fund PAC - Yes on Prop 67"}
+		]
 
 	}
 
@@ -202,6 +234,30 @@ def call_generate_csv_propose( num_of_propose ):
 		59: [],
 		60: [ {"COMMITTEE_ID":"1385139","COMMITTEE_NAME":"No on Proposition 60, Californians Against Worker Harassment, Sponsored by the Free Speech Coalition"} ],
 		61: [ {"COMMITTEE_ID":"1379198","COMMITTEE_NAME":"No on Prop 61 - Californians Against the Deceptive RX Proposition, a Coalition of Veterans Doctors Patient Advocates Seniors Taxpayers and Members of Pharmaceutical Research and Manufacturers of Amer."} ],
+		62: [ 
+			{"COMMITTEE_ID":"1302403","COMMITTEE_NAME":"California Correctional Peace Officers Association Truth in American Government Fund; No on Proposition 62, Yes on Proposition 66 (Non-Profit 501(C)5)"}, 
+			{"COMMITTEE_ID":"1346266","COMMITTEE_NAME":"Californians to Mend, Not End, the Death Penalty. No on Prop 62, Yes on Prop 66. Supported by Prosecutors, Law Enforcement, and Families of Victims."},
+			{"COMMITTEE_ID":"1317554","COMMITTEE_NAME":"San Francisco Police Officers Association Issues PAC - Yes on 66, No on 62"} 
+		],
+		63: [ 
+			{"COMMITTEE_ID":"1382067","COMMITTEE_NAME":"Coalition for Civil Liberties, a Project of California Rifle & Pistol Association"}, 
+			{"COMMITTEE_ID":"1380746","COMMITTEE_NAME":"Stop Prop 63, a Grassroots, Common-Sense Effort for Rational Policy Sponsored by Firearms Policy Coalition"},
+			{"COMMITTEE_ID":"1387279","COMMITTEE_NAME":"Veto Gunmageddon, Citizens of California who are Opposed to Proposition 63, Assembly Bills 1135, 1511, 1695 and Senate Bills 880, 1235 and 1446"} 
+		],
+		64: [ 
+	    		{"COMMITTEE_ID":"1390962","COMMITTEE_NAME":"Moms Strong Against Prop 64"},
+	    		{"COMMITTEE_ID":"1382568","COMMITTEE_NAME":"No on Prop. 64, Sponsored by California Public Safety Institute"},
+	    		{"COMMITTEE_ID":"1387789","COMMITTEE_NAME":"Sam Action, Inc., a Committee Against Proposition 64 with Help from Citizens (NonProfit 501(C)(4))"}
+		],
+		65: [],
+		66: [
+	    		{"COMMITTEE_ID":"1385745","COMMITTEE_NAME":"Fund for Policy Reform Nonprofit 501(c)(4), sponsored by Fund for Policy Reform, Yes on Propositions 57, 62, and 64, K, and L and No on Proposition 66, in support of marijuana legalization, parole for nonviolent offenders, repeal of the death penalty, November runoffs and voting on initiatives and referenda in November."},
+	    		{"COMMITTEE_ID":"1391170","COMMITTEE_NAME":"Million Voter Project Action Fund - Yes on 55, 56, 57, 58, 62, and No on 66, Sponsored by Social Justice Organizations"},
+	    		{"COMMITTEE_ID":"1383946","COMMITTEE_NAME":"No on Prop 66 Sponsored by PowerPAC.org and American Civil Liberties Union of Northern California, with help from Organizations for Fair Justice"},
+	    		{"COMMITTEE_ID":"1386494","COMMITTEE_NAME":"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59"},
+	    		{"COMMITTEE_ID":"1380590","COMMITTEE_NAME":"Yes on 62, No on 66. Replace the Costly, Failed Death Penalty System. Sponsored by Taxpayers for Sentencing Reform"},
+		],
+		67: [ {"COMMITTEE_ID":"1372902","COMMITTEE_NAME":"American Progressive Bag Alliance, a Project of the Society of the Plastics Industry (Non-Profit 501 (c) (6)), Yes on 65 and No on 67"} ]
 	}
 
 	supporting_committees = pandas.DataFrame( supporting_dict_proposes[num_of_propose] )
