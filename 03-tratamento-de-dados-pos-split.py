@@ -145,10 +145,10 @@ def call_generate_csv_propose( num_of_propose ):
 		
 	}
 
-	supporting_committees = pandas.DataFrame( supporting_dict_proposes[supporting_dict_proposes] )
+	supporting_committees = pandas.DataFrame( supporting_dict_proposes[num_of_propose] )
 	supporting_committees['COMMITTEE_POSITION'] = 'SUPPORT'
 
-	opposing_committees = pandas.DataFrame( opposing_dict_proposes[supporting_dict_proposes] )
+	opposing_committees = pandas.DataFrame( opposing_dict_proposes[num_of_propose] )
 	opposing_committees['COMMITTEE_POSITION'] = 'OPPOSE'
 	"""
 	supporting_committees = pandas.DataFrame([
