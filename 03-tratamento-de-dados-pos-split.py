@@ -137,8 +137,51 @@ def call_generate_csv_propose( num_of_propose ):
 			{"COMMITTEE_ID":"1372760","COMMITTEE_NAME":"PICO California-Yes on 55, 56 and 57 (Non Profit 501 (C)(3))"},
 			{"COMMITTEE_ID":"931704","COMMITTEE_NAME":"United Teachers Los Angeles-Political Action Council of Educators (PACE) Issues, a Committee for Propositions 55 and 58"},
 			{"COMMITTEE_ID":"1381382","COMMITTEE_NAME":"Yes on 55 - Californians for Budget Stability, Sponsored by Teachers, Health Care Providers, Doctors and Labor Organizations"},
-		]
-		
+		],
+		56: [
+			{"COMMITTEE_ID":"1385538","COMMITTEE_NAME":"California Kids Campaign, Yes on Props 55 & 56, Sponsored by Common Sense Kids Action, Inc."},
+			{"COMMITTEE_ID":"1390602","COMMITTEE_NAME":"Common Sense Kids Action, Inc., Yes on Props. 55 and 56 (NonProfit 501 (C) (4))"},
+			{"COMMITTEE_ID":"1383858","COMMITTEE_NAME":"Fight Cancer - Yes on 56, Sponsored by American Cancer Society, Inc. and American Cancer Society Cancer Action Network, Inc."},
+			{"COMMITTEE_ID":"1384591","COMMITTEE_NAME":"Million Voter Project Action Fund, sponsored by Social Justice Organizations"},
+			{"COMMITTEE_ID":"1391170","COMMITTEE_NAME":"Million Voter Project Action Fund - Yes on 55, 56, 57, 58, 62, and No on 66, Sponsored by Social Justice Organizations"},
+			{"COMMITTEE_ID":"1372760","COMMITTEE_NAME":"PICO California-Yes on 55, 56 and 57 (Non Profit 501 (C)(3))"},
+			{"COMMITTEE_ID":"1377991","COMMITTEE_NAME":"Yes on 56 - Saves Lives California, a Coalition of Doctors, Dentists, Health Plans, Labor, Hospitals, and Non-Profit Health Advocate Organizations"},
+			{"COMMITTEE_ID":"1388518","COMMITTEE_NAME":"Yes on 56 Stop Cancer - Planned Parenthood Advocates Mar Monte (Non Profit 501(C)(4))"},
+			{"COMMITTEE_ID":"1389668","COMMITTEE_NAME":"Yes on 56 Stop Cancer - Planned Parenthood of Orange and San Bernardino Counties' Community Action Fund (Non Profit 501(C)(4))"}
+		],
+		57: [
+			{"COMMITTEE_ID":"1378703","COMMITTEE_NAME":"California Calls Action Fund (NonProfit 501(C)(4))"},
+			{"COMMITTEE_ID":"1387648","COMMITTEE_NAME":"California Calls Action Fund - Yes on 57 (NonProfit 501(C)(4))"},
+			{"COMMITTEE_ID":"1346267","COMMITTEE_NAME":"California Statewide Law Enforcement Association Issues Committee (Non-Profit 501(C)5): Yes on Proposition 57"},
+			{"COMMITTEE_ID":"1387575","COMMITTEE_NAME":"Civic Participation Action Fund - Yes on 57 (NonProfit 501(C)(4))"},
+			{"COMMITTEE_ID":"1385745","COMMITTEE_NAME":"Fund for Policy Reform Nonprofit 501(c)(4), sponsored by the Fund for Policy Reform, Yes on Propositions 57, 62, and 64, K, and L and No on Proposition 66, in support of marijuana legalization, parole for nonviolent offenders, repeal of the death penalty, November runoffs and voting on initiatives and referenda in November."},
+			{"COMMITTEE_ID":"1392066","COMMITTEE_NAME":"FWD.us (nonprofit 501(c)(4)) in support of Proposition 57 with help from citizens for public safety and opportunity"},
+			{"COMMITTEE_ID":"1384591","COMMITTEE_NAME":"Million Voter Project Action Fund, sponsored by Social Justice Organizations"},
+			{"COMMITTEE_ID":"1391170","COMMITTEE_NAME":"Million Voter Project Action Fund - Yes on 55, 56, 57, 58, 62, and No on 66, Sponsored by Social Justice Organizations"},
+			{"COMMITTEE_ID":"1391327","COMMITTEE_NAME":"Open Philanthropy Action Fund Yes on 57 (NonProfit 501(C)(4))"},
+			{"COMMITTEE_ID":"1372760","COMMITTEE_NAME":"PICO California-Yes on 55, 56 and 57 (Non Profit 501 (C)(3))"},
+			{"COMMITTEE_ID":"1382912","COMMITTEE_NAME":"Yes on Prop. 57, Californians for Public Safety and Rehabilitation"}
+		],
+		58:[
+			{"COMMITTEE_ID":"1374153","COMMITTEE_NAME":"Californians for a 21st Century Economy - Yes on 58, a Ricardo Lara Ballot Measure Committee"},
+			{"COMMITTEE_ID":"1391170","COMMITTEE_NAME":"Million Voter Project Action Fund - Yes on 55, 56, 57, 58, 62, and No on 66, Sponsored by Social Justice Organizations"},
+			{"COMMITTEE_ID":"931704","COMMITTEE_NAME":"United Teachers Los Angeles-Political Action Council of Educators (PACE) Issues, a Committee for Propositions 55 and 58"},
+			{"COMMITTEE_ID":"1386477","COMMITTEE_NAME":"Yes on 58, Californians for E	nglish Proficiency Sponsored by Teachers and Service Employees Organizations"}
+		],
+		59:[
+			{"COMMITTEE_ID":"1389997","COMMITTEE_NAME":"California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4)"},
+			{"COMMITTEE_ID":"1387856","COMMITTEE_NAME":"Make Them Listen - Yes on 59"},
+			{"COMMITTEE_ID":"1360075","COMMITTEE_NAME":"Move to Amend Yes on Prop 59"},
+			{"COMMITTEE_ID":"1386909","COMMITTEE_NAME":"Overturn Citizens United, Yes on 59"},
+			{"COMMITTEE_ID":"1386494","COMMITTEE_NAME":"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59"},
+			{"COMMITTEE_ID":"1381423","COMMITTEE_NAME":"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)"}
+		],
+		60: [ {"COMMITTEE_ID":"1356566","COMMITTEE_NAME":"Yes on Prop 60, For Adult Industry Responsibility (FAIR) Committee, With Major Funding By AIDS Healthcare Foundation"} ],
+		61: [ 
+			{"COMMITTEE_ID":"1387641","COMMITTEE_NAME":"Consumer Watchdog Campaign to Lower Drug Prices, Yes on 61, Major Funding by AIDS Healthcare Foundation"},
+			{"COMMITTEE_ID":"1376791","COMMITTEE_NAME":"Yes on Prop 61, Californians for Lower Drug Prices, with major funding by AIDS Healthcare Foundation and California Nurses Association PAC"} 
+		],
+
 	}
 
 
@@ -151,7 +194,14 @@ def call_generate_csv_propose( num_of_propose ):
 		56: [ {"COMMITTEE_ID":"1389484","COMMITTEE_NAME":"California Citizens Against Special Interests and Wasteful Taxes, No on Prop. 56"},
 	    		{"COMMITTEE_ID":"1386637","COMMITTEE_NAME":"No on 56 - Stop the Special Interest Tax Grab. Major Funding by Philip Morris USA Inc. and R.J. Reynolds Tobacco Company, with a Coalition of Taxpayers, Educators, Healthcare Professionals, Law ..."},
 	    		{"COMMITTEE_ID":"1388865","COMMITTEE_NAME":"Protect Small Business and Smoke Free Alternatives, No on 56; Sponsored by Smoke-Free Alternatives Trade Association"}],
-		
+		57:[
+	    		{"COMMITTEE_ID":"1336580","COMMITTEE_NAME":"Los Angeles Police Protective League Issues PAC - Yes on 66, No on 57"},
+	    		{"COMMITTEE_ID":"1386627","COMMITTEE_NAME":"No on 57 - Stop Early Release of Violent Criminals (SERVC)"}
+		],
+		58: [],
+		59: [],
+		60: [ {"COMMITTEE_ID":"1385139","COMMITTEE_NAME":"No on Proposition 60, Californians Against Worker Harassment, Sponsored by the Free Speech Coalition"} ],
+		61: [ {"COMMITTEE_ID":"1379198","COMMITTEE_NAME":"No on Prop 61 - Californians Against the Deceptive RX Proposition, a Coalition of Veterans Doctors Patient Advocates Seniors Taxpayers and Members of Pharmaceutical Research and Manufacturers of Amer."} ],
 	}
 
 	supporting_committees = pandas.DataFrame( supporting_dict_proposes[num_of_propose] )
