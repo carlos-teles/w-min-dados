@@ -123,6 +123,7 @@ def call_generate_csv_propose( num_of_propose ):
 	filer_to_filing = filer_filings_df[['FILER_ID', 'FILING_ID']].drop_duplicates()
 
 	supporting_dict_proposes = {
+		53: [ {"COMMITTEE_ID":"1376040","COMMITTEE_NAME":"Yes on 53 - Stop Blank Checks"} ],
 		54: [ {"COMMITTEE_ID":"1389997","COMMITTEE_NAME":"California Common Cause -- Yes on 54 and 59 (NonProfit 501(C)(4)"},
 	    			{"COMMITTEE_ID":"1386494","COMMITTEE_NAME":"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59"},
 	    			{"COMMITTEE_ID":"1381029","COMMITTEE_NAME":"Yes on 54 - Voters First, Not Special Interests - Sponsored by Hold Politicians Accountable"}],
@@ -140,8 +141,14 @@ def call_generate_csv_propose( num_of_propose ):
 
 
 	opposing_dict_proposes = {
+		53: [ {"COMMITTEE_ID":"761010","COMMITTEE_NAME":"CA Business PAC, Sponsored by CA Chamber of Commerce (aka CALBUSPAC) - No on Proposition 53"},
+	    		{"COMMITTEE_ID":"1378875","COMMITTEE_NAME":"No on Prop 53 - Californians to Protect Local Control, a Coalition of Public Safety, Local Government, Business and Labor Organizations, and Taxpayers"},
+	    		{"COMMITTEE_ID":"1389930","COMMITTEE_NAME":"No on 53, Neighbors Defending Local Control"}],
 		54: [ {"COMMITTEE_ID":"1385928","COMMITTEE_NAME":"Californians for an Effective Legislature"} ],
-		55: [ {"COMMITTEE_ID":"1385886","COMMITTEE_NAME":"California's Future PAC, Sponsored by the Kersten Institute for Governance & Public Policy"} ]
+		55: [ {"COMMITTEE_ID":"1385886","COMMITTEE_NAME":"California's Future PAC, Sponsored by the Kersten Institute for Governance & Public Policy"} ],
+		56: [ {"COMMITTEE_ID":"1389484","COMMITTEE_NAME":"California Citizens Against Special Interests and Wasteful Taxes, No on Prop. 56"},
+	    		{"COMMITTEE_ID":"1386637","COMMITTEE_NAME":"No on 56 - Stop the Special Interest Tax Grab. Major Funding by Philip Morris USA Inc. and R.J. Reynolds Tobacco Company, with a Coalition of Taxpayers, Educators, Healthcare Professionals, Law ..."},
+	    		{"COMMITTEE_ID":"1388865","COMMITTEE_NAME":"Protect Small Business and Smoke Free Alternatives, No on 56; Sponsored by Smoke-Free Alternatives Trade Association"}],
 		
 	}
 
@@ -188,7 +195,7 @@ def call_generate_csv_propose( num_of_propose ):
 	print len(prop_64_itemized)
 
 	prop_64_itemized.drop('FILER_ID', axis=1, inplace=True)
-	prop_64_itemized.to_csv("/tmp/prop_"+str(num_of_propose)+"64_contributions.csv", index=False)
+	prop_64_itemized.to_csv("/tmp/prop_"+str(num_of_propose)+"_contributions.csv", index=False)
 
 	sys.exit(0)
 
