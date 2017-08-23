@@ -1,562 +1,562 @@
-FILING_ID,COMMITTEE_ID,COMMITTEE_NAME,COMMITTEE_POSITION,AMEND_ID,FIRST_NAME,LAST_NAME,CITY,STATE,ZIPCODE,EMPLOYER,OCCUPATION,DATE,AMOUNT
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jeffrey S.,Adair,Redwood City,CA,94062,"J. Floral Art, Inc.",Owner,11/15/2015 12:00:00 AM,500
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Becca,Arnold,Encinitas,CA,92024,n/a,Not Employed,12/31/2015 12:00:00 AM,250
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lawrence,Aronson,Los Altos,CA,94024,n/a,Retired,11/16/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lawrence,Aronson,Los Altos,CA,94024,n/a,Retired,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jo Anne,Bailey,Menlo Park,CA,94025,"University Heights Montessori Children's Center, Inc.",Teacher,11/15/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jo Anne,Bailey,Menlo Park,CA,94025,"University Heights Montessori Children's Center, Inc.",Teacher,11/15/2015 12:00:00 AM,50
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Linda J.,Bailey,San Carlos,CA,94070,n/a,Retired,11/15/2015 12:00:00 AM,250
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Linda J.,Bailey,San Carlos,CA,94070,n/a,Retired,12/31/2015 12:00:00 AM,50
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Josh,Becker,Menlo Park,CA,94025,Lex Mishina,Chief Executive Officer,11/15/2015 12:00:00 AM,1000
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Barbara T.,Bilson,Santa Monica,CA,90405,n/a,Retired,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Greg,Brockbank,San Rafael,CA,94901,Marin Law Center,Attorney,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Carol L.,Brouillet,Palo Alto,CA,94306,n/a,Not Employed,11/15/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Sherry,Brown,Palo Alto,CA,94301,Sherry Brown,Psychotherapist,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Andrew C.,Browne,Portola Valley,CA,94028,n/a,Retired,11/15/2015 12:00:00 AM,500
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Andrew C.,Browne,Portola Valley,CA,94028,n/a,Retired,11/16/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Patricia,Burbank,San Rafael,CA,94901,n/a,Retired,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Mark,Cairns,Palo Alto,CA,94303,n/a,Not Employed,11/15/2015 12:00:00 AM,1000
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lawrence E.,Crooks,Richmond,CA,94804,Lawrence E. Crooks,Electrical Engineer,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lynn,Davidson,Berkeley,CA,94707,AppDynamics,Technical Writer,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Greg,Dinger,Mount Shasta,CA,96067,Greybeard Design Group,President/Owner,12/30/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Allen W.,Dirrim,Oxnard,CA,93030,n/a,Retired,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,John R.,Donaldson,Fresno,CA,93727,n/a,Not Employed,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Edward C.,Driscoll Jr.,Portola Valley,CA,94028,Claremont Creek Ventures,Venture Capital,11/15/2015 12:00:00 AM,1000
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Craig E.,Dunkerley,San Jose,CA,95131,Remax/Clean Solar,Realtor/Solar Site Analyst,11/15/2015 12:00:00 AM,1000
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Craig E.,Dunkerley,San Jose,CA,95131,Remax/Clean Solar,Realtor/Solar Site Analyst,11/15/2015 12:00:00 AM,150
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Stephen,Dunne,Portola Valley,CA,94028,n/a,Not Employed,11/15/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Louis C.,Fisher,Berkeley,CA,94705,n/a,Retired,12/31/2015 12:00:00 AM,250
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,,Frederick V. Rehhausser dba High Street Consultants,Los Gatos,CA,95030,,,11/15/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Brett,Garrett,Santa Cruz,CA,95060,Brett Garrett,Dentist,12/31/2015 12:00:00 AM,150
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Shirley,Gaston,San Mateo,CA,94402,"University Heights Montessori Children's Center, Inc.","Administrator, Teacher & Owner",11/15/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Elizabeth,Gleghorn,Berkeley,CA,94707,University of San Francisco Benioff Children's Hospital,Physician,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Robert A.,Goldberg,Canoga Park,CA,91304,Jules Stein Eye Institute,Physician,12/6/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ann,Grant,Sebastopol,CA,95472,n/a,Not Employed,12/9/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Gerry,Gras,Palo Alto,CA,94306,n/a,Not Employed,12/9/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lorraine A.,Hancock,Portola Valley,CA,94028,n/a,Homemaker,11/16/2015 12:00:00 AM,1000
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Noble,Hancock,Portola Valley,CA,94028,n/a,Retired,11/16/2015 12:00:00 AM,250
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Dee Y.,Harris,Redwood City,CA,94061,Kiki Designs,Human Resource Consultant/Designer,11/16/2015 12:00:00 AM,250
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Roger,Hill,Los Angeles,CA,90045,n/a,Not Employed,12/8/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Craig,Jackson,San Diego,CA,92121,n/a,Retired,12/6/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Paul H.,Johnson,Agoura Hills,CA,91301,n/a,Not Employed,11/15/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Nancy Elizabeth,Kops,San Jose,CA,95125,n/a,Not Employed,11/16/2015 12:00:00 AM,3000
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Nancy Elizabeth,Kops,San Jose,CA,95125,n/a,Not Employed,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,James,Kremer,Pacifica,CA,94044,n/a,Retired,11/15/2015 12:00:00 AM,500
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jo Ellen,Legendre,Encino,CA,91436,Jo Ellen Legendre,Filmmaker,12/31/2015 12:00:00 AM,250
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Gregory A.,Loew,Atherton,CA,94027,SLAC National Accelerator Laboratory,Deputy Director Emeritus,11/16/2015 12:00:00 AM,250
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,JoAnn Marie,Loulan,Portola Valley,CA,94028,JoAnn Marie Loulan,Consultant,11/16/2015 12:00:00 AM,1000
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Janet,Loustaunou,Portola Valley,CA,94028,n/a,Retired,11/15/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Katherine,Lynn,Woodland Hills,CA,91367,n/a,Retired,12/10/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Luise S.,Maier,Palo Alto,CA,94301,n/a,Retired,11/15/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Luise S.,Maier,Palo Alto,CA,94301,n/a,Retired,11/16/2015 12:00:00 AM,250
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lewis,Manchester,Sonoma,CA,95476,n/a,Not Employed,12/12/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Christine L.,Martens,Portola Valley,CA,94028,Stanford Healthcare,Biologist,12/30/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ann A.,McDonald,San Diego,CA,92119,n/a,Not Employed,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Deborah S.,McNeil,Mill Valley,CA,94941,Deborah S. McNeil,Counselor,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Carolyn,Mone,Redwood City,CA,94062,n/a,Not Employed,11/16/2015 12:00:00 AM,1000
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Nancy Robinson,Neff,Palo Alto,CA,94306,n/a,Homemaker,11/15/2015 12:00:00 AM,1000
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Samuel H.,Neff,Whitefish,MT,59937,n/a,Retired,12/31/2015 12:00:00 AM,200
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Armand,Neukermans,Portola Valley,CA,94028,Adagio Consultants,President,11/16/2015 12:00:00 AM,500
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Eliane,Neukermans,Portola Valley,CA,94028,Palo Alto Community Fund,Co-Chair,11/16/2015 12:00:00 AM,500
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Susan Lee,Plass,Mountain View,CA,94040,n/a,Not Employed,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Donna,Poulos,Los Altos,CA,94024,Donna Poulos,Music Teacher,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Daniel J.,Quinn,Portola Valley,CA,94028,n/a,Retired,11/15/2015 12:00:00 AM,250
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,James,Ramsay,San Francisco,CA,94114,"Univeristy of California, San Francisco",Physician,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Gertrude,Reagan,Palo Alto,CA,94303,Gertrude Reagan,Artist,11/15/2015 12:00:00 AM,200
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Diane H.,Rolfe,Palo Alto,CA,94301,n/a,Retired,11/15/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Elizabeth B.,Ross,Portola Valley,CA,94028,n/a,Retired,11/15/2015 12:00:00 AM,1000
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,,SEI Investments,Oaks,PA,19456,,,12/31/2015 12:00:00 AM,1000
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Sara,Sendelbeck,Palo Alto,CA,94306,n/a,Not Employed,12/9/2015 12:00:00 AM,200
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Marian,Shostrom,Pleasant Hill,CA,94523,n/a,Retired,12/6/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Dan,Silver,Los Angeles,CA,90012,Endangered Habitat League,Executive Director,12/5/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jon C.,Silver,Portola Valley,CA,94028,n/a,Not Employed,11/15/2015 12:00:00 AM,250
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Donald,Simon,Corte Madera,CA,94925,"Wendel, Rosen, Black & Dean, LLP",Attorney,11/15/2015 12:00:00 AM,300
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Sally,Skanderup,Oakland,CA,92869,Sally Skanderup,Consultant,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Chalmers Walter,Smith,Palo Alto,CA,94301,n/a,Retired,11/15/2015 12:00:00 AM,50
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Chalmers Walter,Smith,Palo Alto,CA,94301,n/a,Retired,11/16/2015 12:00:00 AM,50
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ellen F.,Smith,Palo Alto,CA,94301,Ellen Smith Editorial Services,Editor,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Laurie S.,Spaeth,Palo Alto,CA,94301,n/a,Retired,11/15/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Robert,Stern,Malibu,CA,90265,n/a,Retired,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,11/15/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Michele Cynthia,Sutter,Venice,CA,90291,Michele Cynthia Sutter,Activist,12/30/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Rowland,Tabor,Portola Valley,CA,94028,n/a,Not Employed,12/30/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Kavita,Tankha,Los Altos,CA,94024,n/a,Retired,12/31/2015 12:00:00 AM,250
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Robert F.,Ward,Mountain View,CA,94040,n/a,Retired,11/16/2015 12:00:00 AM,1000
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jeanne S.,Whitsell,Huntington Beach,CA,92649,n/a,Not Employed,12/31/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,James F.,Wickett,Redwood City,CA,94062,n/a,Retired,11/15/2015 12:00:00 AM,100
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,James F.,Wickett,Redwood City,CA,94062,n/a,Retired,11/15/2015 12:00:00 AM,500
-2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Margaret,Willits,Sonora,CA,95370,USDA Forest Service,Botanist,12/31/2015 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Alan,Appleford,Oakland,CA,94611,n/a,Not Employed,1/15/2016 12:00:00 AM,50
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Alan,Appleford,Oakland,CA,94611,n/a,Not Employed,2/23/2016 12:00:00 AM,50
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Joanne,Bruggemann,Redwood City,CA,94065,n/a,Not Employed,2/14/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,David Warren,Cary,Belmont,CA,94002,n/a,Not Employed,2/15/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Jill,Chesler,San Jose,CA,95125,n/a,Retired,2/16/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,Dean Democratic Club of Silicon Valley,San Jose,CA,95128,,,2/18/2016 12:00:00 AM,250
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,Dr. Nicole Cherok Chiropractor,Sant Mateo,CA,94401,,,3/30/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Peter,Drekmeier,Palo Alto,CA,94301,Toulumne River Trust,Policy Director,2/16/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Jonathan E. B.,Eddy,Palo Alto,CA,94301,n/a,Not Employed,3/30/2016 12:00:00 AM,1000
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Linda V.,Elkind,Portola Valley,CA,94028,n/a,Retired,2/18/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Edward G.,Feldman,Northridge,CA,91325,n/a,Retired,2/23/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Eitan M.,Fenson,Los Altos,CA,94024,"On Track, Inc.",Consultant,2/18/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Paul L.,Gilbert,Mountain View,CA,94040,n/a,Retired,2/18/2016 12:00:00 AM,200
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Virginia,Hill,Grass Valley,CA,90056,Psychemedics Corporation,Scientist,1/28/2016 12:00:00 AM,250
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Sudhanshu Kumar,Jain,Santa Clara,CA,95050,n/a,Retired,2/22/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Sara,Katz,Oakland,CA,94618,n/a,Not Employed,2/18/2016 12:00:00 AM,180
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Patricia S.,Kuhi,El Cerrito,CA,94530,n/a,Retired,3/30/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Robert,Langis,Santa Cruz,CA,95062,n/a,Not Employed,1/13/2016 12:00:00 AM,50
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Robert,Langis,Santa Cruz,CA,95062,n/a,Not Employed,2/13/2016 12:00:00 AM,50
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Robert,Langis,Santa Cruz,CA,95062,n/a,Not Employed,3/13/2016 12:00:00 AM,50
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Robert,Langis,Santa Cruz,CA,95062,n/a,Not Employed,3/22/2016 12:00:00 AM,-50
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Alice,Loughry,Los Altos,CA,94022,n/a,Not Employed,2/24/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,John C.,Malugen,La Jolla,CA,92037,n/a,Retired,2/18/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Linda,Nicholes,Anaheim,CA,92807,n/a,Not Employed,2/23/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Eve,Pell,Mill Valley,CA,94941,Eve Pell,Writer,2/18/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Donna,Poulos,Los Altos,CA,94024,Donna Poulos,Music Teacher,2/20/2016 12:00:00 AM,500
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Armand Robert,Ramirez,Covina,CA,91723,Nicks Limousine Service,Driver,2/23/2016 12:00:00 AM,300
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Jane,Rands,Fullerton,CA,92832,Northrop Grumman,Software Engineer,2/18/2016 12:00:00 AM,125
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Roger E.,Roberts,San Rafael,CA,94901,n/a,Retired,3/30/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Shirley J.,Shelangoski,Pleasant Hill,CA,94523,n/a,Retired,2/18/2016 12:00:00 AM,300
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Constance,Sutton,Berkeley,CA,94707,n/a,Retired,1/29/2016 12:00:00 AM,150
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Rowland,Tabor,Portola Valley,CA,94028,n/a,Not Employed,1/16/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Martha,Utz,San Jose,CA,95120,n/a,Retired,1/15/2016 12:00:00 AM,500
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Robert F.,Ward,Mountain View,CA,94040,n/a,Retired,3/30/2016 12:00:00 AM,500
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,James,Wilson,Oxnard,CA,93035,n/a,Retired,3/9/2016 12:00:00 AM,100
-2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Laure L.,Woods,Portola Valley,CA,94028,n/a,Not Employed,3/30/2016 12:00:00 AM,12000
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,,California Clean Money Campaign (CCMAF),Culver City,CA,90230,,,6/30/2016 12:00:00 AM,2500
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,4/22/2016 12:00:00 AM,25
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,5/22/2016 12:00:00 AM,25
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,6/22/2016 12:00:00 AM,25
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,John,Fioretta,San Jose,CA,95112,n/a,Retired,4/13/2016 12:00:00 AM,25
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,John,Fioretta,San Jose,CA,95112,n/a,Retired,5/13/2016 12:00:00 AM,25
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,John,Fioretta,San Jose,CA,95112,n/a,Retired,6/13/2016 12:00:00 AM,25
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Judith,Pogue,Sunnyvale,CA,94087,n/a,Not Employed,4/20/2016 12:00:00 AM,20
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Judith,Pogue,Sunnyvale,CA,94087,n/a,Not Employed,5/20/2016 12:00:00 AM,20
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,4/22/2016 12:00:00 AM,20
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,4/24/2016 12:00:00 AM,20
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,5/22/2016 12:00:00 AM,20
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,5/24/2016 12:00:00 AM,20
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,6/22/2016 12:00:00 AM,20
-2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,6/24/2016 12:00:00 AM,20
-2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,7/22/2016 12:00:00 AM,25
-2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,8/22/2016 12:00:00 AM,25
-2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,9/22/2016 12:00:00 AM,25
-2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,John,Fioretta,San Jose,CA,95112,n/a,Retired,7/13/2016 12:00:00 AM,25
-2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,John,Fioretta,San Jose,CA,95112,n/a,Retired,8/13/2016 12:00:00 AM,25
-2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,John,Fioretta,San Jose,CA,95112,n/a,Retired,9/13/2016 12:00:00 AM,25
-2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,7/22/2016 12:00:00 AM,20
-2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,7/24/2016 12:00:00 AM,20
-2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,8/22/2016 12:00:00 AM,20
-2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,8/24/2016 12:00:00 AM,20
-2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,9/22/2016 12:00:00 AM,20
-2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,9/24/2016 12:00:00 AM,20
-2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Rashelle,Zelaznik,Los Angeles,CA,90064,n/a,Homemaker,9/12/2016 12:00:00 AM,200
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,"American Promise Initiative, Inc.",Concord,MA,01742,,,10/11/2016 12:00:00 AM,600
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,"American Promise Initiative, Inc.",Concord,MA,01742,,,10/11/2016 12:00:00 AM,600
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Leslie,Brothers,Santa Monica,CA,90403,Leslie Brothers,Physican,10/10/2016 12:00:00 AM,100
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Alfred B.,Chase,San Francisco,CA,94114,Alfred B. Chase,Rowing Coach,10/18/2016 12:00:00 AM,100
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,Common Cause California,Los Angeles,CA,90013,,,10/12/2016 12:00:00 AM,1200
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,10/22/2016 12:00:00 AM,25
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,George,Elbaum,San Francisco,CA,94123,"George J. Elbaum, Inc.",Owner,10/14/2016 12:00:00 AM,100
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,John,Fioretta,San Jose,CA,95112,n/a,Retired,10/13/2016 12:00:00 AM,25
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,"Free Speech For People, Inc.",Amherst,MA,01002,,,10/7/2016 12:00:00 AM,1200
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Peggy E.,Jacobs,Los Altos,CA,94022,n/a,Retired,10/14/2016 12:00:00 AM,100
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,"Overturn Citizens United, Yes on 59",Los Angeles,CA,90024,,,10/6/2016 12:00:00 AM,1200
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Don,Schroeder,North Hollywood,CA,91601,Chaffey College,Professor,10/17/2016 12:00:00 AM,120
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,10/22/2016 12:00:00 AM,20
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Robert F.,Ward,Mountain View,CA,94040,n/a,Retired,10/21/2016 12:00:00 AM,200
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Jason,Worden,Monte Sereno,CA,95030,Independent Engineering,Mechanical Engineer,10/10/2016 12:00:00 AM,100
-2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Seymour,Zemlyn,Woodland Hills,CA,91364,n/a,Not Employed,10/13/2016 12:00:00 AM,100
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Aris,Anagnos,Los Angeles,CA,90049,Aris Anagnos,Realtor,10/28/2016 12:00:00 AM,200
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Rebecca S.,Arnold,Encinitas,CA,92024,n/a,Not Employed,10/31/2016 12:00:00 AM,100
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Odile,Ayral,San Luis Obispo,CA,93405,n/a,Not Employed,10/28/2016 12:00:00 AM,100
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Michael,Barnett,San Francisco,CA,94112,n/a,Retired,10/31/2016 12:00:00 AM,60
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Michael,Barnett,San Francisco,CA,94112,n/a,Retired,11/5/2016 12:00:00 AM,60
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Karen,Beck,Danville,CA,94526,n/a,Retired,10/23/2016 12:00:00 AM,60
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Karen,Beck,Danville,CA,94526,n/a,Retired,10/28/2016 12:00:00 AM,60
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Mary,Belshe,San Rafael,CA,94901,Mary Belshe,Artist,11/2/2016 12:00:00 AM,150
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Mary,Belshe,San Rafael,CA,94901,Mary Belshe,Artist,11/3/2016 12:00:00 AM,300
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Nick,Brandt,Malibu,CA,90265,Nick Brandt,Photographer,10/31/2016 12:00:00 AM,100
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Leslie,Brothers,Santa Monica,CA,90403,Leslie Brothers,Physician,10/23/2016 12:00:00 AM,30
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Leslie,Brothers,Santa Monica,CA,90403,Leslie Brothers,Physician,11/5/2016 12:00:00 AM,60
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,,California Clean Money Campaign (CCMC),Culver City,CA,90230,,,12/31/2016 12:00:00 AM,1155.50
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Harry W.,Crosby,La Jolla,CA,92037,Harry W. Crosby,Historian,10/27/2016 12:00:00 AM,30
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Harry W.,Crosby,La Jolla,CA,92037,Harry W. Crosby,Historian,10/31/2016 12:00:00 AM,30
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Harry W.,Crosby,La Jolla,CA,92037,Harry W. Crosby,Historian,10/31/2016 12:00:00 AM,3
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Harry W.,Crosby,La Jolla,CA,92037,Harry W. Crosby,Historian,11/2/2016 12:00:00 AM,30
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,11/22/2016 12:00:00 AM,25
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Peter S.,Cross,Palo Alto,CA,94306,n/a,Not Employed,10/24/2016 12:00:00 AM,120
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Eric,Decker,Scotts Valley,CA,95066,n/a,Not Employed,11/5/2016 12:00:00 AM,100
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Bob Carls,Dudney,Guerneville,CA,95446,n/a,Not Employed,11/1/2016 12:00:00 AM,80
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Bob Carls,Dudney,Guerneville,CA,95446,n/a,Not Employed,11/5/2016 12:00:00 AM,24
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,John,Fioretta,San Jose,CA,95112,n/a,Retired,11/13/2016 12:00:00 AM,25
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,John,Fioretta,San Jose,CA,95112,n/a,Retired,12/13/2016 12:00:00 AM,25
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lisa,French,Arcata,CA,95521,n/a,Retired,10/28/2016 12:00:00 AM,100
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ann,Gerhardt,Sacramento,CA,95819,Ann Gerhardt,Physician,10/26/2016 12:00:00 AM,50
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Joshua,Gutwill,Berkeley,CA,94703,Exploratorium,Researcher,10/24/2016 12:00:00 AM,100
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Fred,Marschner,Walnut Creek,CA,94596,Northwest Mutual,Financial Representative,10/27/2016 12:00:00 AM,50
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Fred,Marschner,Walnut Creek,CA,94596,Northwest Mutual,Financial Representative,10/31/2016 12:00:00 AM,25
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Fred,Marschner,Walnut Creek,CA,94596,Northwest Mutual,Financial Representative,11/2/2016 12:00:00 AM,25
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Fred,Marschner,Walnut Creek,CA,94596,Northwest Mutual,Financial Representative,11/5/2016 12:00:00 AM,25
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Deborah,Rose,Palo Alto,CA,94303,Deborah Rose,Physician,10/31/2016 12:00:00 AM,60
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Camille,Russell,Fresno,CA,93722,n/a,Not Employed,10/27/2016 12:00:00 AM,100
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Camille,Russell,Fresno,CA,93722,n/a,Not Employed,10/28/2016 12:00:00 AM,10
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ron,Schultz,Santa Rosa,CA,95409,n/a,Not Employed,10/27/2016 12:00:00 AM,100
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Barbara E.,Trees,Tujunga,CA,91042,n/a,Not Employed,10/28/2016 12:00:00 AM,100
-2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jason,Worden,Monte Sereno,CA,95030,Independent Engineering,Mechanical Engineer,10/27/2016 12:00:00 AM,50
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Marci,Levine,Los Angeles,CA,90046,Dreamworks Animation,Production Accounting,7/13/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,John,Fioretta,San Jose,CA,95112,None,Retired,7/15/2016 12:00:00 AM,500
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,John,Watson,Santa Barbara,CA,93105,Not employed,Retired,7/15/2016 12:00:00 AM,5000
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Holly,Mosher,Santa Monica,CA,90405,Self-employed,Filmmaker,7/18/2016 12:00:00 AM,5000
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Brian,Carr,San Jose,CA,95124,Not employed,Not employed,7/31/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Eitan,Fenson,Los Altos,CA,94024,"On Track, Inc.",Consultant,8/1/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Bruce,Saltzer,Glendale,CA,91202,Assn of Community Human Service Agencies,Executive Director,8/1/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Robin,Bedell-Waite,El Sobrante,CA,94803,None,Retired,8/2/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Jeff,Clements,Concord,CA,01742,Whaleback Partners LLC,Self-Employed,8/8/2016 12:00:00 AM,5000
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Leslie,Brothers,Santa Monica,CA,90403,self,physician,8/27/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Mary,Linton,San Ramon,CA,94583,None,Retired,9/1/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Doug,Brouwer,Santa Cruz,CA,95062,EKM Metering,Self employed,9/8/2016 12:00:00 AM,250
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Stephen,Mitchell,Santa Barbara,CA,93120,self,writer,9/8/2016 12:00:00 AM,250
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,James,Trattner,Venice,CA,90291,TalentWave Inc.,Headhunter,9/9/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Donna,Malamud,Venice,CA,90291,self,mom,9/12/2016 12:00:00 AM,900
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Stephen,Mitchell,Santa Barbara,CA,93120,self,writer,9/13/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Holly,Setzer,Santa Cruz,CA,95062,Not employed,Not employed,9/13/2016 12:00:00 AM,50
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Saul,Kay,Encino,CA,91316,none,none,9/14/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Shane,Keller,San Francisco,CA,94117,fitbit,Software Engineer,9/14/2016 12:00:00 AM,250
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Robert,Kresek,Los Altos,CA,94022,Not employed,Not employed,9/14/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Mariquita,West,Los Gatos,CA,95031-0634,none,retired,9/15/2016 12:00:00 AM,500
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,A. Easley,Johnson,Susan,VA,23163,Taylored Printing,Commercial Printing,9/16/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Donna,Malamud,Venice,CA,90291,self,mom,9/16/2016 12:00:00 AM,-900
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,kate,shein,playa del rey,CA,90293,Not employed,Not employed,9/16/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Paul,Johnson,Agoura Hills,CA,91301,KellyMitchell Group,Engineer,9/19/2016 12:00:00 AM,123.45
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Margaret,Rossoff,Oakland,CA,94609,Family therapist,Self-Employed,9/22/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Mark,Dempsey,Orangevale,CA,95662,Dorado Software,Tech Writer,9/23/2016 12:00:00 AM,100
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Mark,Lesser,Los Angeles,CA,90049,None,Retired,9/23/2016 12:00:00 AM,250
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,James,Zukin,Los Angeles,CA,90077,None,Poet,9/23/2016 12:00:00 AM,250
-2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Holly,Setzer,Santa Cruz,CA,95062,Not employed,Not employed,9/16/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Ernest,Goitein,Atherton,CA,94027,none,none,9/27/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,John,Sorensen,Truckee,CA,96161,Not employed,Not employed,9/27/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Kate,Warner,San Rafael,CA,94901,Self,Construction Lawyer,9/27/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Marguerite,Courtney,Fort Bragg,CA,95437,City of Fort Bragg,council member,9/28/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,kate,shein,playa del rey,CA,90293,Not employed,Not employed,9/28/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Bill,Twist,San Francisco,CA,94118,Pachamama Alliance,researcher,9/28/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,William C.,Valaika,Laguna Beach,CA,92651,Self,Real Estate Investment,9/28/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Elea,Bernou,Berkeley,CA,94705,Self,Neuropsychologist,9/29/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Lois,Bourgon,Manhattan Beach,CA,90266,Not employed,Not employed,9/29/2016 12:00:00 AM,25
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,James,Butler,Berkeley,CA,94705,Butler Viadro LLP,Attorney,9/29/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Mark,Fanning,Seattle,WA,98122,LPL,Financial Services,9/29/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Mary,Jebara,New York,NY,10023,Not employed,Not employed,9/29/2016 12:00:00 AM,20
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Bob,Kroth,Fremont,CA,94536,Lam Research,Engineering Technician,9/29/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Marci,Levine,Los Angeles,CA,90046,Dreamworks Animation,Production Accounting,9/29/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Jay,Lincoln,New York,NY,10022,JCL/APL Inc.,Software Design,9/29/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Jackie,Pence,Somerset,CA,95684,self,Massage Therapist,9/29/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,9/29/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Wendy,Tsien,Eugene,OR,97405-9535,Not employed,Not employed,9/29/2016 12:00:00 AM,20
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Jamie,Wolf,Beverly Hills,CA,90210,self,writer,9/29/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Laura,Danly,Los Angeles,CA,90027,City of Los Angeles,Astronomer,9/30/2016 12:00:00 AM,1000
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Darren,Frayne,Denton,TX,76201,Versare,Marketing,9/30/2016 12:00:00 AM,20
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Damon,Lane,Burlington,VT,5401,VEIC,Engineer,9/30/2016 12:00:00 AM,145
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Holly,Setzer,Santa Cruz,CA,95062,Not employed,Not employed,9/30/2016 12:00:00 AM,20
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Holly,Setzer,Santa Cruz,CA,95062,Not employed,Not employed,9/30/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Prisca,Smith,Sturgeon Bay,WI,54235,HTF Inc.,VP Oper.,9/30/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Shirlee,Smith,Ripon,CA,95366,Not employed,Not employed,9/30/2016 12:00:00 AM,74
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Martin,Watson,Lynnwood,WA,98087,King County,Heavy Equipment Operator,9/30/2016 12:00:00 AM,5.40
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sally,Arnold,Santa Cruz,CA,95060,Not employed,Not employed,10/1/2016 12:00:00 AM,110
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Paul,Johnson,Agoura Hills,CA,91301,KellyMitchell Group,Engineer,10/1/2016 12:00:00 AM,123.45
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Philip,Mounger,Austin,TX,78738,Not employed,Not employed,10/1/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Walter,Secada,Miami,FL,33133,University of Miami,Professor,10/1/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,karel,svoboda,alexandria,VA,22314,ByP Consulting LLC,Principal / Engineer,10/1/2016 12:00:00 AM,20
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Marilyn,Clements,Stamford,CT,6902,Self Employed,Artist/Teacher,10/3/2016 12:00:00 AM,2500
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,John,Watson,Santa Barbara,CA,93105,Not employed,Retired,10/3/2016 12:00:00 AM,4300
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,cynthia,hull,colorado springs,CO,80917,none,none,10/4/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,karel,svoboda,alexandria,VA,22314,ByP Consulting LLC,Principal / Engineer,10/4/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Marguerite,Courtney,Fort Bragg,CA,95437,City of Fort Bragg,council member,10/6/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Richard,Dawson,Los Angeles,CA,90026-1832,none,none,10/6/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Peter,Hanauer,Berkeley,CA,94708,American Nonsmokers' Rights Foundation,Policy Analyst,10/6/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Karen,Keegan,Martinez,CA,94553,none,Retired,10/6/2016 12:00:00 AM,25
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Lois,Bourgon,Manhattan Beach,CA,90266,Not employed,Not employed,10/7/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Craig,Dunkerley,San Jose,CA,95131,Clean Solar,solar site anlyst,10/7/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Joe,Ely,Brentwood,CA,94513,Not employed,Not employed,10/7/2016 12:00:00 AM,500
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Katrina,Frey,Redwood Valley,CA,95470,Frey Vineyards Ltd.,Sales,10/7/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sharon,Queen-Ford,Los Angeles,CA,90034,Not employed,Not employed,10/7/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/7/2016 12:00:00 AM,25
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Martin,Watson,Lynnwood,WA,98087,King County,Heavy Equipment Operator,10/7/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Theodore,Smith,San Jose,CA,95112,self,environmental consultant,10/8/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Ernest,Goitein,Atherton,CA,94027,none,none,10/9/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Karen,Keegan,Martinez,CA,94553,none,Retired,10/9/2016 12:00:00 AM,25
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Alison,Beal,Brooklyn,NY,11218,Not employed,Not employed,10/10/2016 12:00:00 AM,25
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Bob,Kroth,Fremont,CA,94536,Lam Research,Engineering Technician,10/10/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Dana,DuBose,Santa Monica,CA,90403,The Nature Conservancy,fundraiser,10/11/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/11/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Martin,Watson,Lynnwood,WA,98087,King County,Heavy Equipment Operator,10/11/2016 12:00:00 AM,27
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Richard,Dawson,Los Angeles,CA,90026-1832,none,none,10/12/2016 12:00:00 AM,35
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sheilah,Fish,Moraga,CA,94556,561 Augusta Dr.,none,10/12/2016 12:00:00 AM,35
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,karel,svoboda,alexandria,VA,22314,ByP Consulting LLC,Principal / Engineer,10/12/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Alison,Beal,Brooklyn,NY,11218,Not employed,Not employed,10/13/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Francoise,Becket,Coronado,CA,92118,none,Self employed,10/13/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,John,Fulford,Long Beach,CA,90807,Not employed,Not employed,10/13/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Neil,Hunt,Los Altos,CA,94024,Netflix,Technical manager,10/13/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/13/2016 12:00:00 AM,10
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Jobeth,Williams,Los Angeles,CA,90064,Self,Actor,10/13/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Charles,Bailey,Lummi Island,WA,98262,Not employed,Not employed,10/14/2016 12:00:00 AM,16.67
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Alison,Beal,Brooklyn,NY,11218,Not employed,Not employed,10/14/2016 12:00:00 AM,16.67
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Blair,Bigelow,Pelham,MA,1002,Not employed,Not employed,10/14/2016 12:00:00 AM,166.67
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,John Christian,Caldwell,Pittsburgh,PA,15217,UPMC,Physician,10/14/2016 12:00:00 AM,33.34
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,John,Clements,Sourthport,CT,6890,Tara Investment Partners LLC,Venture Capital Investor,10/14/2016 12:00:00 AM,500
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,john,Every,Boise,ID,83703,Not employed,Not employed,10/14/2016 12:00:00 AM,166.67
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Darren,Frayne,Denton,TX,76201,Versare,Marketing,10/14/2016 12:00:00 AM,250
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Russell,Frehling,Red Hook,NY,12571,none,none,10/14/2016 12:00:00 AM,33.34
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Alison,Geballe,San Francisco,CA,94123,Not employed,Not employed,10/14/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sarah,Gray,Pittsfield,VT,5762,Not employed,Not employed,10/14/2016 12:00:00 AM,3.34
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Mary,Jebara,New York,NY,10023,Not employed,Not employed,10/14/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Bonita,John,Santa Cruz,CA,95060,Not employed,Not employed,10/14/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Robert S,Lord,San Jose,CA,95118,none,no employed,10/14/2016 12:00:00 AM,9
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Holly,Mosher,Santa Monica,CA,90405,Self-employed,Filmmaker,10/14/2016 12:00:00 AM,83.34
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Philip,Mounger,Austin,TX,78738,Not employed,Not employed,10/14/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Eileen,Ong-Osmond,San Jose,CA,95135,none,self employed,10/14/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Deborah,Rose,Palo Alto,CA,94303,Self,Physician,10/14/2016 12:00:00 AM,166.67
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Prisca,Smith,Sturgeon Bay,WI,54235,HTF Inc.,VP Oper.,10/14/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Maria Ines,Sobrero,Chicago,IL,60642,Associates in Nephrology,Physician,10/14/2016 12:00:00 AM,166.67
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/14/2016 12:00:00 AM,33.34
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/14/2016 12:00:00 AM,10
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Don,Tracy,Banning,CA,92220,Not employed,Not employed,10/14/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Wendy,Tsien,Eugene,OR,97405-9535,Not employed,Not employed,10/14/2016 12:00:00 AM,33.34
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Gwen,Weiner,tucson,AZ,85718,self,business,10/14/2016 12:00:00 AM,166.67
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Belinda,Barcock,Greenwich,CT,6830,Not employed,Not employed,10/15/2016 12:00:00 AM,83.34
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Richard,Collins,Danville,CA,94526,Clif Bar & Company,Sales Manager,10/15/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Peter,Dragovich,Martinez,CA,94553,Not employed,Not employed,10/15/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sheilah,Fish,Moraga,CA,94556,561 Augusta Dr.,none,10/15/2016 12:00:00 AM,35
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Robert S,Lord,San Jose,CA,95118,none,no employed,10/15/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Michael,Pouliot,Dublin,CA,94568,none,retired,10/15/2016 12:00:00 AM,140
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Fran,Salisbury,San Jose,CA,95132,Not employed,Not employed,10/15/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Shirlee,Smith,Ripon,CA,95366,Not employed,Not employed,10/15/2016 12:00:00 AM,33.34
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Eric,Strid,White Salmon,WA,98672,not employed,not employed,10/15/2016 12:00:00 AM,33.34
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,karel,svoboda,alexandria,VA,22314,ByP Consulting LLC,Principal / Engineer,10/15/2016 12:00:00 AM,33.34
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Mariquita,West,Los Gatos,CA,95031-0634,none,retired,10/15/2016 12:00:00 AM,500
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Marcy,Whitebook,Oakland,CA,94618,University of California,Reseacher,10/15/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,patty,glikbarg,corte madera,CA,94925,self,interior designer,10/16/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Leslie,Brothers,Santa Monica,CA,90403,self,physician,10/17/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Matthew,Patsky,Boston,MA,2116,Trillium Asset Management,CEO,10/17/2016 12:00:00 AM,500
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Dale,Pollekoff,Los Angeles,CA,90046,none,retired,10/17/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,,Represent.Us,Florence,MA,01062,,,10/17/2016 12:00:00 AM,1000
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Holly,Setzer,Santa Cruz,CA,95062,Not employed,Not employed,10/17/2016 12:00:00 AM,33.34
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/17/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Mark,Macias,Pasadena,CA,91105,Self,Technology Consultant,10/11/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Alison,Beal,Brooklyn,NY,11218,Not employed,Not employed,10/18/2016 12:00:00 AM,35
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sarah,Gray,Pittsfield,VT,5762,Not employed,Not employed,10/18/2016 12:00:00 AM,10
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sarah,Gray,Pittsfield,VT,5762,Not employed,Not employed,10/18/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Paul,Hutchinson,Newport Beach,CA,92660,Not employed,Not employed,10/18/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Shane,Keller,San Francisco,CA,94117,fitbit,Software Engineer,10/18/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Robert S,Lord,San Jose,CA,95118,none,no employed,10/18/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/18/2016 12:00:00 AM,35
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Craig,Steele,Las Vegas,NV,89116,Exogi LLC,Businessman,10/18/2016 12:00:00 AM,166.67
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Jamie,Wolf,Beverly Hills,CA,90210,self,writer,10/18/2016 12:00:00 AM,50
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sean,Hammons,Lake Oswego,OR,97034,Roxr Software Ltd,Web developer,10/19/2016 12:00:00 AM,166.67
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Neil,Hunt,Los Altos,CA,94024,Netflix,Technical manager,10/19/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Martin,Watson,Lynnwood,WA,98087,King County,Heavy Equipment Operator,10/19/2016 12:00:00 AM,27
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,John Christian,Caldwell,Pittsburgh,PA,15217,UPMC,Physician,10/20/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Michael,Engel,Los Angeles,CA,90035,IgNight LLC,Filmmaker,10/20/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Russell,Frehling,Red Hook,NY,12571,none,none,10/20/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Lori,Grace,Tiburon,CA,94920,self,teacher,10/20/2016 12:00:00 AM,1000
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Eric,Strid,White Salmon,WA,98672,not employed,not employed,10/20/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Wendy,Tsien,Eugene,OR,97405-9535,Not employed,Not employed,10/20/2016 12:00:00 AM,250
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Charles,Bailey,Lummi Island,WA,98262,Not employed,Not employed,10/21/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Robert,Kresek,Los Altos,CA,94022,Not employed,Not employed,10/21/2016 12:00:00 AM,100
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Robert S,Lord,San Jose,CA,95118,none,no employed,10/21/2016 12:00:00 AM,35
-2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Belinda,Barcock,Greenwich,CT,6830,Not employed,Not employed,10/22/2016 12:00:00 AM,83.34
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Janet,Hinshaw-Thomas,Chester,PA,19013,Not employed,Not employed,10/24/2016 12:00:00 AM,20
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,annette,Alborg,Walnut Creek,CA,94598,Self employed,Realtor,10/25/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,David,Bowlby,Lafayette,CA,94549,The Bowlby Group,Consultant,10/25/2016 12:00:00 AM,250
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Frank R,Burns,Medis,PA,19063,DuPont,Scientist,10/25/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Connie,Call,Los Angeles,CA,90066,self employed,psychotherapist,10/25/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,John,Campbell,San Anselmo,CA,94960,Not employed,Not employed,10/25/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lion,Goodman,Petaluma,CA,94952,Luminary Leadership Institute,Self,10/25/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Philip,Mounger,Austin,TX,78738,Not employed,Not employed,10/25/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Taylor,Ritenour,San Jose,CA,95126,Mentad,Software Engineer,10/25/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Carolyn,Rodenberg,Seattle,WA,98119,Caring Presence Psychotherapy,Psychotherapist,10/25/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Eric,Strid,White Salmon,WA,98672,not employed,not employed,10/25/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gwen,Weiner,tucson,AZ,85718,self,business,10/25/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,GERALDINE,BRYANT,NEW YORK,NY,10011,SELF,Fimmaker,10/26/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,John Christian,Caldwell,Pittsburgh,PA,15217,UPMC,Physician,10/26/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Linda,Enochs,Dana Point,CA,92629,Self,Interior Design,10/26/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Sheilah,Fish,Moraga,CA,94556,561 Augusta Dr.,none,10/26/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Joe,Foos,Pleasanton,CA,94566,Not employed,Not employed,10/26/2016 12:00:00 AM,195
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Ernest,Goitein,Atherton,CA,94027,none,none,10/26/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,James,Gulseth,Pleasanton,CA,94588,JGPC Law,Lawyer,10/26/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gerald,Hunt,San Jose,CA,95124,RETIRED,RETIRED,10/26/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Margaret,Levine,Reno,NV,89508,none,none,10/26/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Robert S,Lord,San Jose,CA,95118,none,no employed,10/26/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Penny,Mattern,Columbus,OH,43221,,not employed,10/26/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Julie,Mckee,Janesville,CA,96114,Not employed,Not employed,10/26/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Miriam,McLeod,Long Beach,CA,90808,none,not employed,10/26/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Mark,Pittenger,Severna Park,MD,21146,self-employed,biochemist,10/26/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Greta,Pruitt,La Crescenta,CA,91214,Not employed,Not employed,10/26/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gilbert,Saucedo,South Pasadena,CA,91030,self,attorney,10/26/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Eric,Strid,White Salmon,WA,98672,not employed,not employed,10/26/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,nikki,symington,Borrego Springs,CA,92004,self,Public relations consultant,10/26/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Jennifer,Tanner,Sedona,AZ,86339,self,consultant,10/26/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Helen,Taplin,Newton,MA,2462,none,not employed,10/26/2016 12:00:00 AM,5
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Paul,Toussaint,Bloomfield,NJ,7003,Bloomfield Library,Librarian,10/26/2016 12:00:00 AM,5
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,James,Vandendorpe,Naperville,IL,60565,none,none,10/26/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Sameer,Vyas,Atlanta,GA,30307,Huco Consulting Inc.,Mr,10/26/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Jamie,Wolf,Beverly Hills,CA,90210,self,writer,10/26/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,John,Anderson,San Francisco,CA,94115,Golden Gate Parks Conservancy self,Restoration technician consultant,10/27/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Connie,Call,Los Angeles,CA,90066,self employed,psychotherapist,10/27/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,John,Campbell,San Anselmo,CA,94960,Not employed,Not employed,10/27/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Brian,Carr,San Jose,CA,95124,Not employed,Not employed,10/27/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Russell,Frehling,Red Hook,NY,12571,none,none,10/27/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Ernest,Goitein,Atherton,CA,94027,none,none,10/27/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Ronald,Gremban,Corte Madera,CA,94925,ForSites Corp.,Engineer,10/27/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lyman,Griswold,Eastsound,WA,98245-9459,none,none,10/27/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Mike,Hansen,Deerfield,IL,60015-3671,n/a,Freelance Consultant,10/27/2016 12:00:00 AM,90
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Karen,Holl,Felton,CA,95018,University of California,Professor,10/27/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Bonita,John,Santa Cruz,CA,95060,Not employed,Not employed,10/27/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Brenda,Kobrin,Santa Rosa,CA,95403,Self,Insurance agent,10/27/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gordon,Miller,Walnut Creek,CA,94597,none,Retired,10/27/2016 12:00:00 AM,1000
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gary,Passon,Kihei,HI,96753,none,none,10/27/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Karen,Pitts,Sacramento,CA,95819,none,none,10/27/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Elsa,Raval,Belmont,CA,94002,Believe Health LLC,Healthcare IT HIE,10/27/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Carolyn,Rodenberg,Seattle,WA,98119,Caring Presence Psychotherapy,Psychotherapist,10/27/2016 12:00:00 AM,5
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Carolyn,Rodenberg,Seattle,WA,98119,Caring Presence Psychotherapy,Psychotherapist,10/27/2016 12:00:00 AM,5
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,William,Schoene,Santa Monica,CA,90405,Not employed,Not employed,10/27/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/27/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,karel,svoboda,alexandria,VA,22314,ByP Consulting LLC,Principal / Engineer,10/27/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Ellen,Tauscher,Washington,DC,20007-3532,Baker Donelson,Strategic Advisor,10/27/2016 12:00:00 AM,1000
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Paul,Toussaint,Bloomfield,NJ,7003,Bloomfield Library,Librarian,10/27/2016 12:00:00 AM,5
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Peter,Vierthaler,Seattle,WA,98103,self,Northwest Partners,10/27/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Kate,Warner,San Rafael,CA,94901,Self,Construction Lawyer,10/27/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lawrence,Abbott,San Leandro,CA,94577,youngs market co.,driver,10/28/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Juliet,Cuming,E.Dummerston,VT,5346,Cuming-Shaw Media Inc.,Photo Archive,10/28/2016 12:00:00 AM,20
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gabrielle,Dolphin,Alameda,CA,94501,Children's Hospital Oakland,Med practice mgr,10/28/2016 12:00:00 AM,20
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Michelle,Fisher,Mission Viejo,CA,92692,none,none,10/28/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gordon,Gardner,Laguna Niguel,CA,92607,Gardner Properties Inc.,CEO,10/28/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,D Caldwell,Jones,Petersburg,AK,99833,Not employed,Not employed,10/28/2016 12:00:00 AM,33.34
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Brenda,Kobrin,Santa Rosa,CA,95403,Self,Insurance agent,10/28/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Robert S,Lord,San Jose,CA,95118,none,no employed,10/28/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Cheryl,Pullen,Shepherdstown,WV,25443,Not employed,Not employed,10/28/2016 12:00:00 AM,15
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Carolyn,Rodenberg,Seattle,WA,98119,Caring Presence Psychotherapy,Psychotherapist,10/28/2016 12:00:00 AM,15
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,William C.,Valaika,Laguna Beach,CA,92651,Self,Real Estate Investment,10/28/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lori,Wheeler,Shelton,WA,98584,Not employed,Not employed,10/28/2016 12:00:00 AM,33.34
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Belinda,Barcock,Greenwich,CT,6830,Not employed,Not employed,10/29/2016 12:00:00 AM,83.34
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Elea,Bernou,Berkeley,CA,94705,Self,Neuropsychologist,10/29/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lois,Bourgon,Manhattan Beach,CA,90266,Not employed,Not employed,10/29/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Sharon,Loeschen,Long Beach,CA,90815,Self,Social worker,10/29/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,suzanne,oberlin,corte madera,CA,94925,not employed,not employed,10/29/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Elsa,Raval,Belmont,CA,94002,Believe Health LLC,Healthcare IT HIE,10/29/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Ross,Stromberg,Healdsburg,CA,95448,Pwc,Health care,10/29/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Helen,Taplin,Newton,MA,2462,none,not employed,10/29/2016 12:00:00 AM,16.67
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Pat,Ungern,Berkeley,CA,94709,Not employed,Not employed,10/29/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,FREDERIC,MARSCHNER,Walnut Creek,CA,94596,(Self) Northwestern Mutual,Financial Rep,10/30/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,FREDERIC,MARSCHNER,Walnut Creek,CA,94596,(Self) Northwestern Mutual,Financial Rep,10/30/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lawrence,Parker,San Luis Obispo,CA,93401,Pacific Gas & Electric Co.,Engineer,10/30/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Janet,Hinshaw-Thomas,Chester,PA,19013,Not employed,Not employed,10/31/2016 12:00:00 AM,20
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Mary,Jebara,New York,NY,10023,Not employed,Not employed,10/31/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,FREDERIC,MARSCHNER,Walnut Creek,CA,94596,(Self) Northwestern Mutual,Financial Rep,10/31/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Robert,Nicksic,Chesterton,IN,46304,James F. Giannini & Associates,Engineer,10/31/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Peter,Vierthaler,Seattle,WA,98103,self,Northwest Partners,10/31/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Frank R,Burns,Medis,PA,19063,DuPont,Scientist,11/1/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Bob,Kroth,Fremont,CA,94536,Lam Research,Engineering Technician,11/1/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Martin,Watson,Lynnwood,WA,98087,King County,Heavy Equipment Operator,11/1/2016 12:00:00 AM,27
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Thomas     C,Glass,Tacoma,WA,98405,Not employed,Not employed,11/2/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lion,Goodman,Petaluma,CA,94952,Luminary Leadership Institute,Self,11/2/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lyman,Griswold,Eastsound,WA,98245-9459,none,none,11/2/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,FREDERIC,MARSCHNER,Walnut Creek,CA,94596,(Self) Northwestern Mutual,Financial Rep,11/2/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Greta,Pruitt,La Crescenta,CA,91214,Not employed,Not employed,11/2/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Helen,Taplin,Newton,MA,2462,none,not employed,11/2/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Helen,Taplin,Newton,MA,2462,none,not employed,11/2/2016 12:00:00 AM,5
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Paul,Toussaint,Bloomfield,NJ,7003,Bloomfield Library,Librarian,11/2/2016 12:00:00 AM,5
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,kevin,falkerson,Sebastopol,CA,95472,self,Designer,11/3/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Joe,Foos,Pleasanton,CA,94566,Not employed,Not employed,11/3/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Ashley,Kidd,Brooklyn,NY,11215,Foundation,Foundation,11/3/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Janet,Kranzberg,Oakland,CA,94612,NONe,None,11/3/2016 12:00:00 AM,250
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Julie,Levine,Topanga,CA,90290,none,none,11/3/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Karen,Pitts,Sacramento,CA,95819,none,none,11/3/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Robert,Ross,Fort Bragg,CA,95437,Self,Artist / Teacher,11/3/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Eric,Strid,White Salmon,WA,98672,not employed,not employed,11/3/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Wendy,Tsien,Eugene,OR,97405-9535,Not employed,Not employed,11/3/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Peter,Vierthaler,Seattle,WA,98103,self,Northwest Partners,11/3/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Sameer,Vyas,Atlanta,GA,30307,Huco Consulting Inc.,Mr,11/3/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Terry,Winograd,Stanford,CA,94305,retired,retired,11/3/2016 12:00:00 AM,250
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Juliet,Cuming,E.Dummerston,VT,5346,Cuming-Shaw Media Inc.,Photo Archive,11/4/2016 12:00:00 AM,20
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gabrielle,Dolphin,Alameda,CA,94501,Children's Hospital Oakland,Med practice mgr,11/4/2016 12:00:00 AM,20
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Michelle,Fisher,Mission Viejo,CA,92692,none,none,11/4/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Joe,Foos,Pleasanton,CA,94566,Not employed,Not employed,11/4/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Mary,Jebara,New York,NY,10023,Not employed,Not employed,11/4/2016 12:00:00 AM,250
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,D Caldwell,Jones,Petersburg,AK,99833,Not employed,Not employed,11/4/2016 12:00:00 AM,33.34
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,FREDERIC,MARSCHNER,Walnut Creek,CA,94596,(Self) Northwestern Mutual,Financial Rep,11/4/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Cheryl,Pullen,Shepherdstown,WV,25443,Not employed,Not employed,11/4/2016 12:00:00 AM,15
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Susan,Singh,Tulsa,OK,74105,,retired,11/4/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lori,Wheeler,Shelton,WA,98584,Not employed,Not employed,11/4/2016 12:00:00 AM,33.34
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Belinda,Barcock,Greenwich,CT,6830,Not employed,Not employed,11/5/2016 12:00:00 AM,83.34
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Paul,Johnson,Agoura Hills,CA,91301,KellyMitchell Group,Engineer,11/5/2016 12:00:00 AM,44.44
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Paul,Johnson,Agoura Hills,CA,91301,KellyMitchell Group,Engineer,11/5/2016 12:00:00 AM,44.44
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Joan,Palmer,Pasadena,CA,91103,Not employed,Not employed,11/5/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Cheryl,Pullen,Shepherdstown,WV,25443,Not employed,Not employed,11/5/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Helen,Taplin,Newton,MA,2462,none,not employed,11/5/2016 12:00:00 AM,16.67
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Karen,Keegan,Martinez,CA,94553,none,Retired,11/6/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Julie,Mckee,Janesville,CA,96114,Not employed,Not employed,11/6/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Cheryl,Pullen,Shepherdstown,WV,25443,Not employed,Not employed,11/6/2016 12:00:00 AM,10
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,William,Schoene,Santa Monica,CA,90405,Not employed,Not employed,11/6/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,John,Watson,Santa Barbara,CA,93105,Not employed,Retired,11/6/2016 12:00:00 AM,1000
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Katrina,Frey,Redwood Valley,CA,95470,Frey Vineyards Ltd.,Sales,11/7/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Janet,Hinshaw-Thomas,Chester,PA,19013,Not employed,Not employed,11/7/2016 12:00:00 AM,20
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Cheryl,Pullen,Shepherdstown,WV,25443,Not employed,Not employed,11/7/2016 12:00:00 AM,5
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Jean,Scott,Chula Vista,CA,91914,Native Voices at the Autry,Theater Producer,11/7/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Kay,Taneyhill,San Francisco,CA,94114,Not employed,Not employed,11/7/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Wendy,Tsien,Eugene,OR,97405-9535,Not employed,Not employed,11/7/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Peter,Vierthaler,Seattle,WA,98103,self,Northwest Partners,11/7/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,,Friends of the Earth,Washington,DC,20005,,,11/8/2016 12:00:00 AM,1500
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Neil,Hunt,Los Altos,CA,94024,Netflix,Technical manager,11/8/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Cheryl,Pullen,Shepherdstown,WV,25443,Not employed,Not employed,11/8/2016 12:00:00 AM,10
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Robert,Ross,Fort Bragg,CA,95437,Self,Artist / Teacher,11/8/2016 12:00:00 AM,25
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Theodore,Smith,San Jose,CA,95112,self,environmental consultant,11/8/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Eric,Strid,White Salmon,WA,98672,not employed,not employed,11/8/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Sameer,Vyas,Atlanta,GA,30307,Huco Consulting Inc.,Mr,11/8/2016 12:00:00 AM,35
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Susan,Chilton,Burlingame,CA,94010,Not employed,Not employed,11/10/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Joe,Ely,Brentwood,CA,94513,Not employed,Not employed,11/10/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Loren,Kaplan,Pacific Palisades,CA,90272,none,none,11/10/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Eric,Strid,White Salmon,WA,98672,not employed,not employed,11/10/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Paul,Toussaint,Bloomfield,NJ,7003,Bloomfield Library,Librarian,11/10/2016 12:00:00 AM,50
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Luke,Hughes,Palo Alto,CA,94303,,,11/11/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Miriam,McLeod,Long Beach,CA,90808,none,not employed,11/11/2016 12:00:00 AM,28
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,STEPHEN,Urciuoli,Westport,CT,6883,PriMed,Doctor,11/11/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Robin,Bedell-Waite,El Sobrante,CA,94803,None,Retired,11/17/2016 12:00:00 AM,100
-2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Jennifer,Tanner,Sedona,AZ,86339,self,consultant,11/23/2016 12:00:00 AM,-109.34
-2057495,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,,The Atlantic Advocacy Fund Inc.,New York,NY,10013,,,5/9/2016 12:00:00 AM,20000
-2057495,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,,The Atlantic Advocacy Fund Inc.,New York,NY,10013,,,5/17/2016 12:00:00 AM,40000
-2083076,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,,The Atlantic Advocacy Fund Inc,New York,NY,10013,,,7/1/2016 12:00:00 AM,4544.24
-2097793,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,,Proteus Fund,Amherst,MA,01002,,,10/7/2016 12:00:00 AM,14000
-2097793,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,,The Atlantic Advocacy Fund Inc,New York,NY,10013,,,9/25/2016 12:00:00 AM,2179.38
-2097793,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,Dagmar,Dolby,San Francisco,CA,94115,Homemaker,Homemaker,10/7/2016 12:00:00 AM,15000
-2129387,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,,The Atlantic Advocacy Fund,New York,NY,10013,,,10/23/2016 12:00:00 AM,1066.50
-2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Derek,Cressman,Sacramento,CA,95816,Self Employed,Consultant,8/2/2016 12:00:00 AM,200
-2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Derek,Cressman,Sacramento,CA,95816,Self Employed,Consultant,8/14/2016 12:00:00 AM,100
-2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Steven,Purol,Famrington,MI,48331,Mango Languages,Software Craftsman,9/29/2016 12:00:00 AM,100
-2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Lori,Grace,Tiburon,CA,94920,Self Employed,teacher,9/29/2016 12:00:00 AM,100
-2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Alison,Geballe,San Francisco,CA,94123,not employed,not employed,9/29/2016 12:00:00 AM,100
-2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Deborah,Rose,Palo Alto,CA,94303,Self Employed,physician,9/29/2016 12:00:00 AM,100
-2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Emil,Kraft,Bellevue,WA,98006,DeepView Solutions,consultant,9/29/2016 12:00:00 AM,100
-2118879,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Derek,Cressman,Sacramento,CA,95816,self,consultant,12/20/2016 12:00:00 AM,212.81
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Edward,Kormundoy,Los Angeles,CA,90026,retired,retired,7/1/2016 12:00:00 AM,100
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Richard,Carson,Nevada City,CA,95959,retired,retired,7/3/2016 12:00:00 AM,100
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,James,Morrison,Huntington Beach,CA,92647,retired,retired,9/20/2016 12:00:00 AM,59
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Derek,Cressman,Sacramento,CA,95816,California Common Cause,campaign manager,9/21/2016 12:00:00 AM,159
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,James,Morrison,Huntington Beach,CA,92647,retired,retired,10/4/2016 12:00:00 AM,59
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Edith,Andrew-Akita,San Diego,CA,92107,retired,retired,10/4/2016 12:00:00 AM,100
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Matt,Bjork,Oakland,CA,94611,Nikon Precision,engineer,10/5/2016 12:00:00 AM,59
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Roy,Maffly,Palo Alto,CA,94301,retired,retired,10/5/2016 12:00:00 AM,59
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Bruce,Stenman,Prunedale,CA,93907,Lightsmith,manager,10/5/2016 12:00:00 AM,200
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Darlene,Little,Seal Beach,CA,90740,NOCCCD,Lecturer,10/5/2016 12:00:00 AM,159
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Michael,Marmor,Stanford,CA,94305,Stanford University,physician,10/5/2016 12:00:00 AM,250
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Roy,Maffly,Palo Alto,CA,94301,retired,retired,10/14/2016 12:00:00 AM,100
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Judith,Weiner,Los Angeles,CA,90005,retired,retired,10/14/2016 12:00:00 AM,118
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Don,Cottrell,San Diego,CA,92115,retired,retired,10/14/2016 12:00:00 AM,100
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Mark,Hoffman,San Rafael,CA,94907,retired,retired,10/14/2016 12:00:00 AM,100
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,,Proteus Action League,Amherst,MA,01002,,,10/17/2016 12:00:00 AM,14000
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Mark,Bjork,Oakland,CA,94611,Nikon Precision,engineer,10/18/2016 12:00:00 AM,59
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,,California Common Cause,Los Angeles,CA,90013,,,10/22/2016 12:00:00 AM,10916.10
-2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,,Voqal USA Philanthropy,Longmont,CO,80501,,,10/5/2016 12:00:00 AM,15000
-2130532,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,1,Thomas,Mowry,Redlands,CA,92007,retired,retired,11/3/2016 12:00:00 AM,250
-2130532,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,1,John,Garvey,Redondo Beach,CA,90277,retired,retired,11/3/2016 12:00:00 AM,159
-2130532,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,1,Jan,Wells,Redwood City,CA,94061,retired,retired,11/8/2016 12:00:00 AM,100
-2130532,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,1,,California Common Cause,Los Angeles,CA,90013,,,12/31/2016 12:00:00 AM,6857.74
-2133918,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,,California Common Cause,Los Angeles,CA,90013,,,2/7/2017 12:00:00 AM,1325
+FILING_ID,COMMITTEE_ID,COMMITTEE_NAME,COMMITTEE_POSITION,AMEND_ID,FIRST_NAME,LAST_NAME,CITY,STATE,ZIPCODE,EMPLOYER,OCCUPATION,DATE,AMOUNT,ID_PROPOSITION
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jeffrey S.,Adair,Redwood City,CA,94062,"J. Floral Art, Inc.",Owner,11/15/2015 12:00:00 AM,500,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Becca,Arnold,Encinitas,CA,92024,n/a,Not Employed,12/31/2015 12:00:00 AM,250,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lawrence,Aronson,Los Altos,CA,94024,n/a,Retired,11/16/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lawrence,Aronson,Los Altos,CA,94024,n/a,Retired,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jo Anne,Bailey,Menlo Park,CA,94025,"University Heights Montessori Children's Center, Inc.",Teacher,11/15/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jo Anne,Bailey,Menlo Park,CA,94025,"University Heights Montessori Children's Center, Inc.",Teacher,11/15/2015 12:00:00 AM,50,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Linda J.,Bailey,San Carlos,CA,94070,n/a,Retired,11/15/2015 12:00:00 AM,250,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Linda J.,Bailey,San Carlos,CA,94070,n/a,Retired,12/31/2015 12:00:00 AM,50,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Josh,Becker,Menlo Park,CA,94025,Lex Mishina,Chief Executive Officer,11/15/2015 12:00:00 AM,1000,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Barbara T.,Bilson,Santa Monica,CA,90405,n/a,Retired,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Greg,Brockbank,San Rafael,CA,94901,Marin Law Center,Attorney,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Carol L.,Brouillet,Palo Alto,CA,94306,n/a,Not Employed,11/15/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Sherry,Brown,Palo Alto,CA,94301,Sherry Brown,Psychotherapist,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Andrew C.,Browne,Portola Valley,CA,94028,n/a,Retired,11/15/2015 12:00:00 AM,500,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Andrew C.,Browne,Portola Valley,CA,94028,n/a,Retired,11/16/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Patricia,Burbank,San Rafael,CA,94901,n/a,Retired,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Mark,Cairns,Palo Alto,CA,94303,n/a,Not Employed,11/15/2015 12:00:00 AM,1000,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lawrence E.,Crooks,Richmond,CA,94804,Lawrence E. Crooks,Electrical Engineer,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lynn,Davidson,Berkeley,CA,94707,AppDynamics,Technical Writer,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Greg,Dinger,Mount Shasta,CA,96067,Greybeard Design Group,President/Owner,12/30/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Allen W.,Dirrim,Oxnard,CA,93030,n/a,Retired,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,John R.,Donaldson,Fresno,CA,93727,n/a,Not Employed,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Edward C.,Driscoll Jr.,Portola Valley,CA,94028,Claremont Creek Ventures,Venture Capital,11/15/2015 12:00:00 AM,1000,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Craig E.,Dunkerley,San Jose,CA,95131,Remax/Clean Solar,Realtor/Solar Site Analyst,11/15/2015 12:00:00 AM,1000,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Craig E.,Dunkerley,San Jose,CA,95131,Remax/Clean Solar,Realtor/Solar Site Analyst,11/15/2015 12:00:00 AM,150,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Stephen,Dunne,Portola Valley,CA,94028,n/a,Not Employed,11/15/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Louis C.,Fisher,Berkeley,CA,94705,n/a,Retired,12/31/2015 12:00:00 AM,250,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,,Frederick V. Rehhausser dba High Street Consultants,Los Gatos,CA,95030,,,11/15/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Brett,Garrett,Santa Cruz,CA,95060,Brett Garrett,Dentist,12/31/2015 12:00:00 AM,150,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Shirley,Gaston,San Mateo,CA,94402,"University Heights Montessori Children's Center, Inc.","Administrator, Teacher & Owner",11/15/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Elizabeth,Gleghorn,Berkeley,CA,94707,University of San Francisco Benioff Children's Hospital,Physician,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Robert A.,Goldberg,Canoga Park,CA,91304,Jules Stein Eye Institute,Physician,12/6/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ann,Grant,Sebastopol,CA,95472,n/a,Not Employed,12/9/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Gerry,Gras,Palo Alto,CA,94306,n/a,Not Employed,12/9/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lorraine A.,Hancock,Portola Valley,CA,94028,n/a,Homemaker,11/16/2015 12:00:00 AM,1000,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Noble,Hancock,Portola Valley,CA,94028,n/a,Retired,11/16/2015 12:00:00 AM,250,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Dee Y.,Harris,Redwood City,CA,94061,Kiki Designs,Human Resource Consultant/Designer,11/16/2015 12:00:00 AM,250,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Roger,Hill,Los Angeles,CA,90045,n/a,Not Employed,12/8/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Craig,Jackson,San Diego,CA,92121,n/a,Retired,12/6/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Paul H.,Johnson,Agoura Hills,CA,91301,n/a,Not Employed,11/15/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Nancy Elizabeth,Kops,San Jose,CA,95125,n/a,Not Employed,11/16/2015 12:00:00 AM,3000,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Nancy Elizabeth,Kops,San Jose,CA,95125,n/a,Not Employed,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,James,Kremer,Pacifica,CA,94044,n/a,Retired,11/15/2015 12:00:00 AM,500,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jo Ellen,Legendre,Encino,CA,91436,Jo Ellen Legendre,Filmmaker,12/31/2015 12:00:00 AM,250,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Gregory A.,Loew,Atherton,CA,94027,SLAC National Accelerator Laboratory,Deputy Director Emeritus,11/16/2015 12:00:00 AM,250,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,JoAnn Marie,Loulan,Portola Valley,CA,94028,JoAnn Marie Loulan,Consultant,11/16/2015 12:00:00 AM,1000,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Janet,Loustaunou,Portola Valley,CA,94028,n/a,Retired,11/15/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Katherine,Lynn,Woodland Hills,CA,91367,n/a,Retired,12/10/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Luise S.,Maier,Palo Alto,CA,94301,n/a,Retired,11/15/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Luise S.,Maier,Palo Alto,CA,94301,n/a,Retired,11/16/2015 12:00:00 AM,250,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lewis,Manchester,Sonoma,CA,95476,n/a,Not Employed,12/12/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Christine L.,Martens,Portola Valley,CA,94028,Stanford Healthcare,Biologist,12/30/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ann A.,McDonald,San Diego,CA,92119,n/a,Not Employed,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Deborah S.,McNeil,Mill Valley,CA,94941,Deborah S. McNeil,Counselor,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Carolyn,Mone,Redwood City,CA,94062,n/a,Not Employed,11/16/2015 12:00:00 AM,1000,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Nancy Robinson,Neff,Palo Alto,CA,94306,n/a,Homemaker,11/15/2015 12:00:00 AM,1000,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Samuel H.,Neff,Whitefish,MT,59937,n/a,Retired,12/31/2015 12:00:00 AM,200,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Armand,Neukermans,Portola Valley,CA,94028,Adagio Consultants,President,11/16/2015 12:00:00 AM,500,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Eliane,Neukermans,Portola Valley,CA,94028,Palo Alto Community Fund,Co-Chair,11/16/2015 12:00:00 AM,500,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Susan Lee,Plass,Mountain View,CA,94040,n/a,Not Employed,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Donna,Poulos,Los Altos,CA,94024,Donna Poulos,Music Teacher,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Daniel J.,Quinn,Portola Valley,CA,94028,n/a,Retired,11/15/2015 12:00:00 AM,250,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,James,Ramsay,San Francisco,CA,94114,"Univeristy of California, San Francisco",Physician,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Gertrude,Reagan,Palo Alto,CA,94303,Gertrude Reagan,Artist,11/15/2015 12:00:00 AM,200,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Diane H.,Rolfe,Palo Alto,CA,94301,n/a,Retired,11/15/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Elizabeth B.,Ross,Portola Valley,CA,94028,n/a,Retired,11/15/2015 12:00:00 AM,1000,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,,SEI Investments,Oaks,PA,19456,,,12/31/2015 12:00:00 AM,1000,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Sara,Sendelbeck,Palo Alto,CA,94306,n/a,Not Employed,12/9/2015 12:00:00 AM,200,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Marian,Shostrom,Pleasant Hill,CA,94523,n/a,Retired,12/6/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Dan,Silver,Los Angeles,CA,90012,Endangered Habitat League,Executive Director,12/5/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jon C.,Silver,Portola Valley,CA,94028,n/a,Not Employed,11/15/2015 12:00:00 AM,250,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Donald,Simon,Corte Madera,CA,94925,"Wendel, Rosen, Black & Dean, LLP",Attorney,11/15/2015 12:00:00 AM,300,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Sally,Skanderup,Oakland,CA,92869,Sally Skanderup,Consultant,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Chalmers Walter,Smith,Palo Alto,CA,94301,n/a,Retired,11/15/2015 12:00:00 AM,50,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Chalmers Walter,Smith,Palo Alto,CA,94301,n/a,Retired,11/16/2015 12:00:00 AM,50,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ellen F.,Smith,Palo Alto,CA,94301,Ellen Smith Editorial Services,Editor,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Laurie S.,Spaeth,Palo Alto,CA,94301,n/a,Retired,11/15/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Robert,Stern,Malibu,CA,90265,n/a,Retired,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,11/15/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Michele Cynthia,Sutter,Venice,CA,90291,Michele Cynthia Sutter,Activist,12/30/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Rowland,Tabor,Portola Valley,CA,94028,n/a,Not Employed,12/30/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Kavita,Tankha,Los Altos,CA,94024,n/a,Retired,12/31/2015 12:00:00 AM,250,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Robert F.,Ward,Mountain View,CA,94040,n/a,Retired,11/16/2015 12:00:00 AM,1000,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jeanne S.,Whitsell,Huntington Beach,CA,92649,n/a,Not Employed,12/31/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,James F.,Wickett,Redwood City,CA,94062,n/a,Retired,11/15/2015 12:00:00 AM,100,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,James F.,Wickett,Redwood City,CA,94062,n/a,Retired,11/15/2015 12:00:00 AM,500,59
+2013083,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Margaret,Willits,Sonora,CA,95370,USDA Forest Service,Botanist,12/31/2015 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Alan,Appleford,Oakland,CA,94611,n/a,Not Employed,1/15/2016 12:00:00 AM,50,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Alan,Appleford,Oakland,CA,94611,n/a,Not Employed,2/23/2016 12:00:00 AM,50,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Joanne,Bruggemann,Redwood City,CA,94065,n/a,Not Employed,2/14/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,David Warren,Cary,Belmont,CA,94002,n/a,Not Employed,2/15/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Jill,Chesler,San Jose,CA,95125,n/a,Retired,2/16/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,Dean Democratic Club of Silicon Valley,San Jose,CA,95128,,,2/18/2016 12:00:00 AM,250,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,Dr. Nicole Cherok Chiropractor,Sant Mateo,CA,94401,,,3/30/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Peter,Drekmeier,Palo Alto,CA,94301,Toulumne River Trust,Policy Director,2/16/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Jonathan E. B.,Eddy,Palo Alto,CA,94301,n/a,Not Employed,3/30/2016 12:00:00 AM,1000,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Linda V.,Elkind,Portola Valley,CA,94028,n/a,Retired,2/18/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Edward G.,Feldman,Northridge,CA,91325,n/a,Retired,2/23/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Eitan M.,Fenson,Los Altos,CA,94024,"On Track, Inc.",Consultant,2/18/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Paul L.,Gilbert,Mountain View,CA,94040,n/a,Retired,2/18/2016 12:00:00 AM,200,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Virginia,Hill,Grass Valley,CA,90056,Psychemedics Corporation,Scientist,1/28/2016 12:00:00 AM,250,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Sudhanshu Kumar,Jain,Santa Clara,CA,95050,n/a,Retired,2/22/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Sara,Katz,Oakland,CA,94618,n/a,Not Employed,2/18/2016 12:00:00 AM,180,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Patricia S.,Kuhi,El Cerrito,CA,94530,n/a,Retired,3/30/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Robert,Langis,Santa Cruz,CA,95062,n/a,Not Employed,1/13/2016 12:00:00 AM,50,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Robert,Langis,Santa Cruz,CA,95062,n/a,Not Employed,2/13/2016 12:00:00 AM,50,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Robert,Langis,Santa Cruz,CA,95062,n/a,Not Employed,3/13/2016 12:00:00 AM,50,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Robert,Langis,Santa Cruz,CA,95062,n/a,Not Employed,3/22/2016 12:00:00 AM,-50,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Alice,Loughry,Los Altos,CA,94022,n/a,Not Employed,2/24/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,John C.,Malugen,La Jolla,CA,92037,n/a,Retired,2/18/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Linda,Nicholes,Anaheim,CA,92807,n/a,Not Employed,2/23/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Eve,Pell,Mill Valley,CA,94941,Eve Pell,Writer,2/18/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Donna,Poulos,Los Altos,CA,94024,Donna Poulos,Music Teacher,2/20/2016 12:00:00 AM,500,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Armand Robert,Ramirez,Covina,CA,91723,Nicks Limousine Service,Driver,2/23/2016 12:00:00 AM,300,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Jane,Rands,Fullerton,CA,92832,Northrop Grumman,Software Engineer,2/18/2016 12:00:00 AM,125,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Roger E.,Roberts,San Rafael,CA,94901,n/a,Retired,3/30/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Shirley J.,Shelangoski,Pleasant Hill,CA,94523,n/a,Retired,2/18/2016 12:00:00 AM,300,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Constance,Sutton,Berkeley,CA,94707,n/a,Retired,1/29/2016 12:00:00 AM,150,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Rowland,Tabor,Portola Valley,CA,94028,n/a,Not Employed,1/16/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Martha,Utz,San Jose,CA,95120,n/a,Retired,1/15/2016 12:00:00 AM,500,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Robert F.,Ward,Mountain View,CA,94040,n/a,Retired,3/30/2016 12:00:00 AM,500,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,James,Wilson,Oxnard,CA,93035,n/a,Retired,3/9/2016 12:00:00 AM,100,59
+2035088,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Laure L.,Woods,Portola Valley,CA,94028,n/a,Not Employed,3/30/2016 12:00:00 AM,12000,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,,California Clean Money Campaign (CCMAF),Culver City,CA,90230,,,6/30/2016 12:00:00 AM,2500,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,4/22/2016 12:00:00 AM,25,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,5/22/2016 12:00:00 AM,25,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,6/22/2016 12:00:00 AM,25,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,John,Fioretta,San Jose,CA,95112,n/a,Retired,4/13/2016 12:00:00 AM,25,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,John,Fioretta,San Jose,CA,95112,n/a,Retired,5/13/2016 12:00:00 AM,25,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,John,Fioretta,San Jose,CA,95112,n/a,Retired,6/13/2016 12:00:00 AM,25,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Judith,Pogue,Sunnyvale,CA,94087,n/a,Not Employed,4/20/2016 12:00:00 AM,20,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Judith,Pogue,Sunnyvale,CA,94087,n/a,Not Employed,5/20/2016 12:00:00 AM,20,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,4/22/2016 12:00:00 AM,20,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,4/24/2016 12:00:00 AM,20,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,5/22/2016 12:00:00 AM,20,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,5/24/2016 12:00:00 AM,20,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,6/22/2016 12:00:00 AM,20,59
+2064625,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,0,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,6/24/2016 12:00:00 AM,20,59
+2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,7/22/2016 12:00:00 AM,25,59
+2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,8/22/2016 12:00:00 AM,25,59
+2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,9/22/2016 12:00:00 AM,25,59
+2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,John,Fioretta,San Jose,CA,95112,n/a,Retired,7/13/2016 12:00:00 AM,25,59
+2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,John,Fioretta,San Jose,CA,95112,n/a,Retired,8/13/2016 12:00:00 AM,25,59
+2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,John,Fioretta,San Jose,CA,95112,n/a,Retired,9/13/2016 12:00:00 AM,25,59
+2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,7/22/2016 12:00:00 AM,20,59
+2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,7/24/2016 12:00:00 AM,20,59
+2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,8/22/2016 12:00:00 AM,20,59
+2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,8/24/2016 12:00:00 AM,20,59
+2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,9/22/2016 12:00:00 AM,20,59
+2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,9/24/2016 12:00:00 AM,20,59
+2083612,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Rashelle,Zelaznik,Los Angeles,CA,90064,n/a,Homemaker,9/12/2016 12:00:00 AM,200,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,"American Promise Initiative, Inc.",Concord,MA,01742,,,10/11/2016 12:00:00 AM,600,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,"American Promise Initiative, Inc.",Concord,MA,01742,,,10/11/2016 12:00:00 AM,600,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Leslie,Brothers,Santa Monica,CA,90403,Leslie Brothers,Physican,10/10/2016 12:00:00 AM,100,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Alfred B.,Chase,San Francisco,CA,94114,Alfred B. Chase,Rowing Coach,10/18/2016 12:00:00 AM,100,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,Common Cause California,Los Angeles,CA,90013,,,10/12/2016 12:00:00 AM,1200,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,10/22/2016 12:00:00 AM,25,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,George,Elbaum,San Francisco,CA,94123,"George J. Elbaum, Inc.",Owner,10/14/2016 12:00:00 AM,100,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,John,Fioretta,San Jose,CA,95112,n/a,Retired,10/13/2016 12:00:00 AM,25,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,"Free Speech For People, Inc.",Amherst,MA,01002,,,10/7/2016 12:00:00 AM,1200,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Peggy E.,Jacobs,Los Altos,CA,94022,n/a,Retired,10/14/2016 12:00:00 AM,100,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,,"Overturn Citizens United, Yes on 59",Los Angeles,CA,90024,,,10/6/2016 12:00:00 AM,1200,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Don,Schroeder,North Hollywood,CA,91601,Chaffey College,Professor,10/17/2016 12:00:00 AM,120,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Ben Francis,Stetson,Sunnyvale,CA,94087,n/a,Not Employed,10/22/2016 12:00:00 AM,20,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Robert F.,Ward,Mountain View,CA,94040,n/a,Retired,10/21/2016 12:00:00 AM,200,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Jason,Worden,Monte Sereno,CA,95030,Independent Engineering,Mechanical Engineer,10/10/2016 12:00:00 AM,100,59
+2098568,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,2,Seymour,Zemlyn,Woodland Hills,CA,91364,n/a,Not Employed,10/13/2016 12:00:00 AM,100,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Aris,Anagnos,Los Angeles,CA,90049,Aris Anagnos,Realtor,10/28/2016 12:00:00 AM,200,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Rebecca S.,Arnold,Encinitas,CA,92024,n/a,Not Employed,10/31/2016 12:00:00 AM,100,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Odile,Ayral,San Luis Obispo,CA,93405,n/a,Not Employed,10/28/2016 12:00:00 AM,100,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Michael,Barnett,San Francisco,CA,94112,n/a,Retired,10/31/2016 12:00:00 AM,60,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Michael,Barnett,San Francisco,CA,94112,n/a,Retired,11/5/2016 12:00:00 AM,60,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Karen,Beck,Danville,CA,94526,n/a,Retired,10/23/2016 12:00:00 AM,60,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Karen,Beck,Danville,CA,94526,n/a,Retired,10/28/2016 12:00:00 AM,60,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Mary,Belshe,San Rafael,CA,94901,Mary Belshe,Artist,11/2/2016 12:00:00 AM,150,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Mary,Belshe,San Rafael,CA,94901,Mary Belshe,Artist,11/3/2016 12:00:00 AM,300,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Nick,Brandt,Malibu,CA,90265,Nick Brandt,Photographer,10/31/2016 12:00:00 AM,100,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Leslie,Brothers,Santa Monica,CA,90403,Leslie Brothers,Physician,10/23/2016 12:00:00 AM,30,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Leslie,Brothers,Santa Monica,CA,90403,Leslie Brothers,Physician,11/5/2016 12:00:00 AM,60,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,,California Clean Money Campaign (CCMC),Culver City,CA,90230,,,12/31/2016 12:00:00 AM,1155.50,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Harry W.,Crosby,La Jolla,CA,92037,Harry W. Crosby,Historian,10/27/2016 12:00:00 AM,30,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Harry W.,Crosby,La Jolla,CA,92037,Harry W. Crosby,Historian,10/31/2016 12:00:00 AM,30,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Harry W.,Crosby,La Jolla,CA,92037,Harry W. Crosby,Historian,10/31/2016 12:00:00 AM,3,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Harry W.,Crosby,La Jolla,CA,92037,Harry W. Crosby,Historian,11/2/2016 12:00:00 AM,30,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Carol L.,Cross,Redwood City,CA,94061,n/a,Not Employed,11/22/2016 12:00:00 AM,25,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Peter S.,Cross,Palo Alto,CA,94306,n/a,Not Employed,10/24/2016 12:00:00 AM,120,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Eric,Decker,Scotts Valley,CA,95066,n/a,Not Employed,11/5/2016 12:00:00 AM,100,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Bob Carls,Dudney,Guerneville,CA,95446,n/a,Not Employed,11/1/2016 12:00:00 AM,80,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Bob Carls,Dudney,Guerneville,CA,95446,n/a,Not Employed,11/5/2016 12:00:00 AM,24,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,John,Fioretta,San Jose,CA,95112,n/a,Retired,11/13/2016 12:00:00 AM,25,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,John,Fioretta,San Jose,CA,95112,n/a,Retired,12/13/2016 12:00:00 AM,25,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Lisa,French,Arcata,CA,95521,n/a,Retired,10/28/2016 12:00:00 AM,100,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ann,Gerhardt,Sacramento,CA,95819,Ann Gerhardt,Physician,10/26/2016 12:00:00 AM,50,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Joshua,Gutwill,Berkeley,CA,94703,Exploratorium,Researcher,10/24/2016 12:00:00 AM,100,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Fred,Marschner,Walnut Creek,CA,94596,Northwest Mutual,Financial Representative,10/27/2016 12:00:00 AM,50,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Fred,Marschner,Walnut Creek,CA,94596,Northwest Mutual,Financial Representative,10/31/2016 12:00:00 AM,25,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Fred,Marschner,Walnut Creek,CA,94596,Northwest Mutual,Financial Representative,11/2/2016 12:00:00 AM,25,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Fred,Marschner,Walnut Creek,CA,94596,Northwest Mutual,Financial Representative,11/5/2016 12:00:00 AM,25,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Deborah,Rose,Palo Alto,CA,94303,Deborah Rose,Physician,10/31/2016 12:00:00 AM,60,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Camille,Russell,Fresno,CA,93722,n/a,Not Employed,10/27/2016 12:00:00 AM,100,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Camille,Russell,Fresno,CA,93722,n/a,Not Employed,10/28/2016 12:00:00 AM,10,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Ron,Schultz,Santa Rosa,CA,95409,n/a,Not Employed,10/27/2016 12:00:00 AM,100,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Barbara E.,Trees,Tujunga,CA,91042,n/a,Not Employed,10/28/2016 12:00:00 AM,100,59
+2130866,1381423,"Yes on 59, California Clean Money Action Fund to Overturn Citizens United (Non Profit 501(C)4)",SUPPORT,1,Jason,Worden,Monte Sereno,CA,95030,Independent Engineering,Mechanical Engineer,10/27/2016 12:00:00 AM,50,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Marci,Levine,Los Angeles,CA,90046,Dreamworks Animation,Production Accounting,7/13/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,John,Fioretta,San Jose,CA,95112,None,Retired,7/15/2016 12:00:00 AM,500,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,John,Watson,Santa Barbara,CA,93105,Not employed,Retired,7/15/2016 12:00:00 AM,5000,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Holly,Mosher,Santa Monica,CA,90405,Self-employed,Filmmaker,7/18/2016 12:00:00 AM,5000,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Brian,Carr,San Jose,CA,95124,Not employed,Not employed,7/31/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Eitan,Fenson,Los Altos,CA,94024,"On Track, Inc.",Consultant,8/1/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Bruce,Saltzer,Glendale,CA,91202,Assn of Community Human Service Agencies,Executive Director,8/1/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Robin,Bedell-Waite,El Sobrante,CA,94803,None,Retired,8/2/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Jeff,Clements,Concord,CA,01742,Whaleback Partners LLC,Self-Employed,8/8/2016 12:00:00 AM,5000,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Leslie,Brothers,Santa Monica,CA,90403,self,physician,8/27/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Mary,Linton,San Ramon,CA,94583,None,Retired,9/1/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Doug,Brouwer,Santa Cruz,CA,95062,EKM Metering,Self employed,9/8/2016 12:00:00 AM,250,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Stephen,Mitchell,Santa Barbara,CA,93120,self,writer,9/8/2016 12:00:00 AM,250,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,James,Trattner,Venice,CA,90291,TalentWave Inc.,Headhunter,9/9/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Donna,Malamud,Venice,CA,90291,self,mom,9/12/2016 12:00:00 AM,900,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Stephen,Mitchell,Santa Barbara,CA,93120,self,writer,9/13/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Holly,Setzer,Santa Cruz,CA,95062,Not employed,Not employed,9/13/2016 12:00:00 AM,50,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Saul,Kay,Encino,CA,91316,none,none,9/14/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Shane,Keller,San Francisco,CA,94117,fitbit,Software Engineer,9/14/2016 12:00:00 AM,250,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Robert,Kresek,Los Altos,CA,94022,Not employed,Not employed,9/14/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Mariquita,West,Los Gatos,CA,95031-0634,none,retired,9/15/2016 12:00:00 AM,500,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,A. Easley,Johnson,Susan,VA,23163,Taylored Printing,Commercial Printing,9/16/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Donna,Malamud,Venice,CA,90291,self,mom,9/16/2016 12:00:00 AM,-900,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,kate,shein,playa del rey,CA,90293,Not employed,Not employed,9/16/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Paul,Johnson,Agoura Hills,CA,91301,KellyMitchell Group,Engineer,9/19/2016 12:00:00 AM,123.45,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Margaret,Rossoff,Oakland,CA,94609,Family therapist,Self-Employed,9/22/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Mark,Dempsey,Orangevale,CA,95662,Dorado Software,Tech Writer,9/23/2016 12:00:00 AM,100,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Mark,Lesser,Los Angeles,CA,90049,None,Retired,9/23/2016 12:00:00 AM,250,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,James,Zukin,Los Angeles,CA,90077,None,Poet,9/23/2016 12:00:00 AM,250,59
+2082995,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,3,Holly,Setzer,Santa Cruz,CA,95062,Not employed,Not employed,9/16/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Ernest,Goitein,Atherton,CA,94027,none,none,9/27/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,John,Sorensen,Truckee,CA,96161,Not employed,Not employed,9/27/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Kate,Warner,San Rafael,CA,94901,Self,Construction Lawyer,9/27/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Marguerite,Courtney,Fort Bragg,CA,95437,City of Fort Bragg,council member,9/28/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,kate,shein,playa del rey,CA,90293,Not employed,Not employed,9/28/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Bill,Twist,San Francisco,CA,94118,Pachamama Alliance,researcher,9/28/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,William C.,Valaika,Laguna Beach,CA,92651,Self,Real Estate Investment,9/28/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Elea,Bernou,Berkeley,CA,94705,Self,Neuropsychologist,9/29/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Lois,Bourgon,Manhattan Beach,CA,90266,Not employed,Not employed,9/29/2016 12:00:00 AM,25,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,James,Butler,Berkeley,CA,94705,Butler Viadro LLP,Attorney,9/29/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Mark,Fanning,Seattle,WA,98122,LPL,Financial Services,9/29/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Mary,Jebara,New York,NY,10023,Not employed,Not employed,9/29/2016 12:00:00 AM,20,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Bob,Kroth,Fremont,CA,94536,Lam Research,Engineering Technician,9/29/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Marci,Levine,Los Angeles,CA,90046,Dreamworks Animation,Production Accounting,9/29/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Jay,Lincoln,New York,NY,10022,JCL/APL Inc.,Software Design,9/29/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Jackie,Pence,Somerset,CA,95684,self,Massage Therapist,9/29/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,9/29/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Wendy,Tsien,Eugene,OR,97405-9535,Not employed,Not employed,9/29/2016 12:00:00 AM,20,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Jamie,Wolf,Beverly Hills,CA,90210,self,writer,9/29/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Laura,Danly,Los Angeles,CA,90027,City of Los Angeles,Astronomer,9/30/2016 12:00:00 AM,1000,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Darren,Frayne,Denton,TX,76201,Versare,Marketing,9/30/2016 12:00:00 AM,20,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Damon,Lane,Burlington,VT,5401,VEIC,Engineer,9/30/2016 12:00:00 AM,145,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Holly,Setzer,Santa Cruz,CA,95062,Not employed,Not employed,9/30/2016 12:00:00 AM,20,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Holly,Setzer,Santa Cruz,CA,95062,Not employed,Not employed,9/30/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Prisca,Smith,Sturgeon Bay,WI,54235,HTF Inc.,VP Oper.,9/30/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Shirlee,Smith,Ripon,CA,95366,Not employed,Not employed,9/30/2016 12:00:00 AM,74,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Martin,Watson,Lynnwood,WA,98087,King County,Heavy Equipment Operator,9/30/2016 12:00:00 AM,5.40,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sally,Arnold,Santa Cruz,CA,95060,Not employed,Not employed,10/1/2016 12:00:00 AM,110,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Paul,Johnson,Agoura Hills,CA,91301,KellyMitchell Group,Engineer,10/1/2016 12:00:00 AM,123.45,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Philip,Mounger,Austin,TX,78738,Not employed,Not employed,10/1/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Walter,Secada,Miami,FL,33133,University of Miami,Professor,10/1/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,karel,svoboda,alexandria,VA,22314,ByP Consulting LLC,Principal / Engineer,10/1/2016 12:00:00 AM,20,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Marilyn,Clements,Stamford,CT,6902,Self Employed,Artist/Teacher,10/3/2016 12:00:00 AM,2500,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,John,Watson,Santa Barbara,CA,93105,Not employed,Retired,10/3/2016 12:00:00 AM,4300,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,cynthia,hull,colorado springs,CO,80917,none,none,10/4/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,karel,svoboda,alexandria,VA,22314,ByP Consulting LLC,Principal / Engineer,10/4/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Marguerite,Courtney,Fort Bragg,CA,95437,City of Fort Bragg,council member,10/6/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Richard,Dawson,Los Angeles,CA,90026-1832,none,none,10/6/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Peter,Hanauer,Berkeley,CA,94708,American Nonsmokers' Rights Foundation,Policy Analyst,10/6/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Karen,Keegan,Martinez,CA,94553,none,Retired,10/6/2016 12:00:00 AM,25,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Lois,Bourgon,Manhattan Beach,CA,90266,Not employed,Not employed,10/7/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Craig,Dunkerley,San Jose,CA,95131,Clean Solar,solar site anlyst,10/7/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Joe,Ely,Brentwood,CA,94513,Not employed,Not employed,10/7/2016 12:00:00 AM,500,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Katrina,Frey,Redwood Valley,CA,95470,Frey Vineyards Ltd.,Sales,10/7/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sharon,Queen-Ford,Los Angeles,CA,90034,Not employed,Not employed,10/7/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/7/2016 12:00:00 AM,25,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Martin,Watson,Lynnwood,WA,98087,King County,Heavy Equipment Operator,10/7/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Theodore,Smith,San Jose,CA,95112,self,environmental consultant,10/8/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Ernest,Goitein,Atherton,CA,94027,none,none,10/9/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Karen,Keegan,Martinez,CA,94553,none,Retired,10/9/2016 12:00:00 AM,25,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Alison,Beal,Brooklyn,NY,11218,Not employed,Not employed,10/10/2016 12:00:00 AM,25,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Bob,Kroth,Fremont,CA,94536,Lam Research,Engineering Technician,10/10/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Dana,DuBose,Santa Monica,CA,90403,The Nature Conservancy,fundraiser,10/11/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/11/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Martin,Watson,Lynnwood,WA,98087,King County,Heavy Equipment Operator,10/11/2016 12:00:00 AM,27,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Richard,Dawson,Los Angeles,CA,90026-1832,none,none,10/12/2016 12:00:00 AM,35,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sheilah,Fish,Moraga,CA,94556,561 Augusta Dr.,none,10/12/2016 12:00:00 AM,35,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,karel,svoboda,alexandria,VA,22314,ByP Consulting LLC,Principal / Engineer,10/12/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Alison,Beal,Brooklyn,NY,11218,Not employed,Not employed,10/13/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Francoise,Becket,Coronado,CA,92118,none,Self employed,10/13/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,John,Fulford,Long Beach,CA,90807,Not employed,Not employed,10/13/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Neil,Hunt,Los Altos,CA,94024,Netflix,Technical manager,10/13/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/13/2016 12:00:00 AM,10,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Jobeth,Williams,Los Angeles,CA,90064,Self,Actor,10/13/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Charles,Bailey,Lummi Island,WA,98262,Not employed,Not employed,10/14/2016 12:00:00 AM,16.67,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Alison,Beal,Brooklyn,NY,11218,Not employed,Not employed,10/14/2016 12:00:00 AM,16.67,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Blair,Bigelow,Pelham,MA,1002,Not employed,Not employed,10/14/2016 12:00:00 AM,166.67,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,John Christian,Caldwell,Pittsburgh,PA,15217,UPMC,Physician,10/14/2016 12:00:00 AM,33.34,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,John,Clements,Sourthport,CT,6890,Tara Investment Partners LLC,Venture Capital Investor,10/14/2016 12:00:00 AM,500,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,john,Every,Boise,ID,83703,Not employed,Not employed,10/14/2016 12:00:00 AM,166.67,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Darren,Frayne,Denton,TX,76201,Versare,Marketing,10/14/2016 12:00:00 AM,250,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Russell,Frehling,Red Hook,NY,12571,none,none,10/14/2016 12:00:00 AM,33.34,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Alison,Geballe,San Francisco,CA,94123,Not employed,Not employed,10/14/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sarah,Gray,Pittsfield,VT,5762,Not employed,Not employed,10/14/2016 12:00:00 AM,3.34,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Mary,Jebara,New York,NY,10023,Not employed,Not employed,10/14/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Bonita,John,Santa Cruz,CA,95060,Not employed,Not employed,10/14/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Robert S,Lord,San Jose,CA,95118,none,no employed,10/14/2016 12:00:00 AM,9,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Holly,Mosher,Santa Monica,CA,90405,Self-employed,Filmmaker,10/14/2016 12:00:00 AM,83.34,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Philip,Mounger,Austin,TX,78738,Not employed,Not employed,10/14/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Eileen,Ong-Osmond,San Jose,CA,95135,none,self employed,10/14/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Deborah,Rose,Palo Alto,CA,94303,Self,Physician,10/14/2016 12:00:00 AM,166.67,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Prisca,Smith,Sturgeon Bay,WI,54235,HTF Inc.,VP Oper.,10/14/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Maria Ines,Sobrero,Chicago,IL,60642,Associates in Nephrology,Physician,10/14/2016 12:00:00 AM,166.67,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/14/2016 12:00:00 AM,33.34,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/14/2016 12:00:00 AM,10,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Don,Tracy,Banning,CA,92220,Not employed,Not employed,10/14/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Wendy,Tsien,Eugene,OR,97405-9535,Not employed,Not employed,10/14/2016 12:00:00 AM,33.34,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Gwen,Weiner,tucson,AZ,85718,self,business,10/14/2016 12:00:00 AM,166.67,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Belinda,Barcock,Greenwich,CT,6830,Not employed,Not employed,10/15/2016 12:00:00 AM,83.34,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Richard,Collins,Danville,CA,94526,Clif Bar & Company,Sales Manager,10/15/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Peter,Dragovich,Martinez,CA,94553,Not employed,Not employed,10/15/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sheilah,Fish,Moraga,CA,94556,561 Augusta Dr.,none,10/15/2016 12:00:00 AM,35,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Robert S,Lord,San Jose,CA,95118,none,no employed,10/15/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Michael,Pouliot,Dublin,CA,94568,none,retired,10/15/2016 12:00:00 AM,140,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Fran,Salisbury,San Jose,CA,95132,Not employed,Not employed,10/15/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Shirlee,Smith,Ripon,CA,95366,Not employed,Not employed,10/15/2016 12:00:00 AM,33.34,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Eric,Strid,White Salmon,WA,98672,not employed,not employed,10/15/2016 12:00:00 AM,33.34,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,karel,svoboda,alexandria,VA,22314,ByP Consulting LLC,Principal / Engineer,10/15/2016 12:00:00 AM,33.34,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Mariquita,West,Los Gatos,CA,95031-0634,none,retired,10/15/2016 12:00:00 AM,500,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Marcy,Whitebook,Oakland,CA,94618,University of California,Reseacher,10/15/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,patty,glikbarg,corte madera,CA,94925,self,interior designer,10/16/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Leslie,Brothers,Santa Monica,CA,90403,self,physician,10/17/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Matthew,Patsky,Boston,MA,2116,Trillium Asset Management,CEO,10/17/2016 12:00:00 AM,500,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Dale,Pollekoff,Los Angeles,CA,90046,none,retired,10/17/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,,Represent.Us,Florence,MA,01062,,,10/17/2016 12:00:00 AM,1000,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Holly,Setzer,Santa Cruz,CA,95062,Not employed,Not employed,10/17/2016 12:00:00 AM,33.34,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/17/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Mark,Macias,Pasadena,CA,91105,Self,Technology Consultant,10/11/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Alison,Beal,Brooklyn,NY,11218,Not employed,Not employed,10/18/2016 12:00:00 AM,35,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sarah,Gray,Pittsfield,VT,5762,Not employed,Not employed,10/18/2016 12:00:00 AM,10,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sarah,Gray,Pittsfield,VT,5762,Not employed,Not employed,10/18/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Paul,Hutchinson,Newport Beach,CA,92660,Not employed,Not employed,10/18/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Shane,Keller,San Francisco,CA,94117,fitbit,Software Engineer,10/18/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Robert S,Lord,San Jose,CA,95118,none,no employed,10/18/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/18/2016 12:00:00 AM,35,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Craig,Steele,Las Vegas,NV,89116,Exogi LLC,Businessman,10/18/2016 12:00:00 AM,166.67,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Jamie,Wolf,Beverly Hills,CA,90210,self,writer,10/18/2016 12:00:00 AM,50,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Sean,Hammons,Lake Oswego,OR,97034,Roxr Software Ltd,Web developer,10/19/2016 12:00:00 AM,166.67,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Neil,Hunt,Los Altos,CA,94024,Netflix,Technical manager,10/19/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Martin,Watson,Lynnwood,WA,98087,King County,Heavy Equipment Operator,10/19/2016 12:00:00 AM,27,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,John Christian,Caldwell,Pittsburgh,PA,15217,UPMC,Physician,10/20/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Michael,Engel,Los Angeles,CA,90035,IgNight LLC,Filmmaker,10/20/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Russell,Frehling,Red Hook,NY,12571,none,none,10/20/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Lori,Grace,Tiburon,CA,94920,self,teacher,10/20/2016 12:00:00 AM,1000,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Eric,Strid,White Salmon,WA,98672,not employed,not employed,10/20/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Wendy,Tsien,Eugene,OR,97405-9535,Not employed,Not employed,10/20/2016 12:00:00 AM,250,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Charles,Bailey,Lummi Island,WA,98262,Not employed,Not employed,10/21/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Robert,Kresek,Los Altos,CA,94022,Not employed,Not employed,10/21/2016 12:00:00 AM,100,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Robert S,Lord,San Jose,CA,95118,none,no employed,10/21/2016 12:00:00 AM,35,59
+2098358,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,1,Belinda,Barcock,Greenwich,CT,6830,Not employed,Not employed,10/22/2016 12:00:00 AM,83.34,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Janet,Hinshaw-Thomas,Chester,PA,19013,Not employed,Not employed,10/24/2016 12:00:00 AM,20,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,annette,Alborg,Walnut Creek,CA,94598,Self employed,Realtor,10/25/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,David,Bowlby,Lafayette,CA,94549,The Bowlby Group,Consultant,10/25/2016 12:00:00 AM,250,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Frank R,Burns,Medis,PA,19063,DuPont,Scientist,10/25/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Connie,Call,Los Angeles,CA,90066,self employed,psychotherapist,10/25/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,John,Campbell,San Anselmo,CA,94960,Not employed,Not employed,10/25/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lion,Goodman,Petaluma,CA,94952,Luminary Leadership Institute,Self,10/25/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Philip,Mounger,Austin,TX,78738,Not employed,Not employed,10/25/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Taylor,Ritenour,San Jose,CA,95126,Mentad,Software Engineer,10/25/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Carolyn,Rodenberg,Seattle,WA,98119,Caring Presence Psychotherapy,Psychotherapist,10/25/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Eric,Strid,White Salmon,WA,98672,not employed,not employed,10/25/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gwen,Weiner,tucson,AZ,85718,self,business,10/25/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,GERALDINE,BRYANT,NEW YORK,NY,10011,SELF,Fimmaker,10/26/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,John Christian,Caldwell,Pittsburgh,PA,15217,UPMC,Physician,10/26/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Linda,Enochs,Dana Point,CA,92629,Self,Interior Design,10/26/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Sheilah,Fish,Moraga,CA,94556,561 Augusta Dr.,none,10/26/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Joe,Foos,Pleasanton,CA,94566,Not employed,Not employed,10/26/2016 12:00:00 AM,195,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Ernest,Goitein,Atherton,CA,94027,none,none,10/26/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,James,Gulseth,Pleasanton,CA,94588,JGPC Law,Lawyer,10/26/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gerald,Hunt,San Jose,CA,95124,RETIRED,RETIRED,10/26/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Margaret,Levine,Reno,NV,89508,none,none,10/26/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Robert S,Lord,San Jose,CA,95118,none,no employed,10/26/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Penny,Mattern,Columbus,OH,43221,,not employed,10/26/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Julie,Mckee,Janesville,CA,96114,Not employed,Not employed,10/26/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Miriam,McLeod,Long Beach,CA,90808,none,not employed,10/26/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Mark,Pittenger,Severna Park,MD,21146,self-employed,biochemist,10/26/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Greta,Pruitt,La Crescenta,CA,91214,Not employed,Not employed,10/26/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gilbert,Saucedo,South Pasadena,CA,91030,self,attorney,10/26/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Eric,Strid,White Salmon,WA,98672,not employed,not employed,10/26/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,nikki,symington,Borrego Springs,CA,92004,self,Public relations consultant,10/26/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Jennifer,Tanner,Sedona,AZ,86339,self,consultant,10/26/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Helen,Taplin,Newton,MA,2462,none,not employed,10/26/2016 12:00:00 AM,5,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Paul,Toussaint,Bloomfield,NJ,7003,Bloomfield Library,Librarian,10/26/2016 12:00:00 AM,5,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,James,Vandendorpe,Naperville,IL,60565,none,none,10/26/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Sameer,Vyas,Atlanta,GA,30307,Huco Consulting Inc.,Mr,10/26/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Jamie,Wolf,Beverly Hills,CA,90210,self,writer,10/26/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,John,Anderson,San Francisco,CA,94115,Golden Gate Parks Conservancy self,Restoration technician consultant,10/27/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Connie,Call,Los Angeles,CA,90066,self employed,psychotherapist,10/27/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,John,Campbell,San Anselmo,CA,94960,Not employed,Not employed,10/27/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Brian,Carr,San Jose,CA,95124,Not employed,Not employed,10/27/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Russell,Frehling,Red Hook,NY,12571,none,none,10/27/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Ernest,Goitein,Atherton,CA,94027,none,none,10/27/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Ronald,Gremban,Corte Madera,CA,94925,ForSites Corp.,Engineer,10/27/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lyman,Griswold,Eastsound,WA,98245-9459,none,none,10/27/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Mike,Hansen,Deerfield,IL,60015-3671,n/a,Freelance Consultant,10/27/2016 12:00:00 AM,90,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Karen,Holl,Felton,CA,95018,University of California,Professor,10/27/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Bonita,John,Santa Cruz,CA,95060,Not employed,Not employed,10/27/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Brenda,Kobrin,Santa Rosa,CA,95403,Self,Insurance agent,10/27/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gordon,Miller,Walnut Creek,CA,94597,none,Retired,10/27/2016 12:00:00 AM,1000,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gary,Passon,Kihei,HI,96753,none,none,10/27/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Karen,Pitts,Sacramento,CA,95819,none,none,10/27/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Elsa,Raval,Belmont,CA,94002,Believe Health LLC,Healthcare IT HIE,10/27/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Carolyn,Rodenberg,Seattle,WA,98119,Caring Presence Psychotherapy,Psychotherapist,10/27/2016 12:00:00 AM,5,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Carolyn,Rodenberg,Seattle,WA,98119,Caring Presence Psychotherapy,Psychotherapist,10/27/2016 12:00:00 AM,5,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,William,Schoene,Santa Monica,CA,90405,Not employed,Not employed,10/27/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Helen,Spiegelman,Vancouver,BC,V5N 3R7,Not employed,Not employed,10/27/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,karel,svoboda,alexandria,VA,22314,ByP Consulting LLC,Principal / Engineer,10/27/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Ellen,Tauscher,Washington,DC,20007-3532,Baker Donelson,Strategic Advisor,10/27/2016 12:00:00 AM,1000,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Paul,Toussaint,Bloomfield,NJ,7003,Bloomfield Library,Librarian,10/27/2016 12:00:00 AM,5,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Peter,Vierthaler,Seattle,WA,98103,self,Northwest Partners,10/27/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Kate,Warner,San Rafael,CA,94901,Self,Construction Lawyer,10/27/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lawrence,Abbott,San Leandro,CA,94577,youngs market co.,driver,10/28/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Juliet,Cuming,E.Dummerston,VT,5346,Cuming-Shaw Media Inc.,Photo Archive,10/28/2016 12:00:00 AM,20,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gabrielle,Dolphin,Alameda,CA,94501,Children's Hospital Oakland,Med practice mgr,10/28/2016 12:00:00 AM,20,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Michelle,Fisher,Mission Viejo,CA,92692,none,none,10/28/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gordon,Gardner,Laguna Niguel,CA,92607,Gardner Properties Inc.,CEO,10/28/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,D Caldwell,Jones,Petersburg,AK,99833,Not employed,Not employed,10/28/2016 12:00:00 AM,33.34,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Brenda,Kobrin,Santa Rosa,CA,95403,Self,Insurance agent,10/28/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Robert S,Lord,San Jose,CA,95118,none,no employed,10/28/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Cheryl,Pullen,Shepherdstown,WV,25443,Not employed,Not employed,10/28/2016 12:00:00 AM,15,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Carolyn,Rodenberg,Seattle,WA,98119,Caring Presence Psychotherapy,Psychotherapist,10/28/2016 12:00:00 AM,15,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,William C.,Valaika,Laguna Beach,CA,92651,Self,Real Estate Investment,10/28/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lori,Wheeler,Shelton,WA,98584,Not employed,Not employed,10/28/2016 12:00:00 AM,33.34,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Belinda,Barcock,Greenwich,CT,6830,Not employed,Not employed,10/29/2016 12:00:00 AM,83.34,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Elea,Bernou,Berkeley,CA,94705,Self,Neuropsychologist,10/29/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lois,Bourgon,Manhattan Beach,CA,90266,Not employed,Not employed,10/29/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Sharon,Loeschen,Long Beach,CA,90815,Self,Social worker,10/29/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,suzanne,oberlin,corte madera,CA,94925,not employed,not employed,10/29/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Elsa,Raval,Belmont,CA,94002,Believe Health LLC,Healthcare IT HIE,10/29/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Ross,Stromberg,Healdsburg,CA,95448,Pwc,Health care,10/29/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Helen,Taplin,Newton,MA,2462,none,not employed,10/29/2016 12:00:00 AM,16.67,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Pat,Ungern,Berkeley,CA,94709,Not employed,Not employed,10/29/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,FREDERIC,MARSCHNER,Walnut Creek,CA,94596,(Self) Northwestern Mutual,Financial Rep,10/30/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,FREDERIC,MARSCHNER,Walnut Creek,CA,94596,(Self) Northwestern Mutual,Financial Rep,10/30/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lawrence,Parker,San Luis Obispo,CA,93401,Pacific Gas & Electric Co.,Engineer,10/30/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Janet,Hinshaw-Thomas,Chester,PA,19013,Not employed,Not employed,10/31/2016 12:00:00 AM,20,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Mary,Jebara,New York,NY,10023,Not employed,Not employed,10/31/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,FREDERIC,MARSCHNER,Walnut Creek,CA,94596,(Self) Northwestern Mutual,Financial Rep,10/31/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Robert,Nicksic,Chesterton,IN,46304,James F. Giannini & Associates,Engineer,10/31/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Peter,Vierthaler,Seattle,WA,98103,self,Northwest Partners,10/31/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Frank R,Burns,Medis,PA,19063,DuPont,Scientist,11/1/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Bob,Kroth,Fremont,CA,94536,Lam Research,Engineering Technician,11/1/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Martin,Watson,Lynnwood,WA,98087,King County,Heavy Equipment Operator,11/1/2016 12:00:00 AM,27,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Thomas     C,Glass,Tacoma,WA,98405,Not employed,Not employed,11/2/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lion,Goodman,Petaluma,CA,94952,Luminary Leadership Institute,Self,11/2/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lyman,Griswold,Eastsound,WA,98245-9459,none,none,11/2/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,FREDERIC,MARSCHNER,Walnut Creek,CA,94596,(Self) Northwestern Mutual,Financial Rep,11/2/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Greta,Pruitt,La Crescenta,CA,91214,Not employed,Not employed,11/2/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Helen,Taplin,Newton,MA,2462,none,not employed,11/2/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Helen,Taplin,Newton,MA,2462,none,not employed,11/2/2016 12:00:00 AM,5,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Paul,Toussaint,Bloomfield,NJ,7003,Bloomfield Library,Librarian,11/2/2016 12:00:00 AM,5,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,kevin,falkerson,Sebastopol,CA,95472,self,Designer,11/3/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Joe,Foos,Pleasanton,CA,94566,Not employed,Not employed,11/3/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Ashley,Kidd,Brooklyn,NY,11215,Foundation,Foundation,11/3/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Janet,Kranzberg,Oakland,CA,94612,NONe,None,11/3/2016 12:00:00 AM,250,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Julie,Levine,Topanga,CA,90290,none,none,11/3/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Karen,Pitts,Sacramento,CA,95819,none,none,11/3/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Robert,Ross,Fort Bragg,CA,95437,Self,Artist / Teacher,11/3/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Eric,Strid,White Salmon,WA,98672,not employed,not employed,11/3/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Wendy,Tsien,Eugene,OR,97405-9535,Not employed,Not employed,11/3/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Peter,Vierthaler,Seattle,WA,98103,self,Northwest Partners,11/3/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Sameer,Vyas,Atlanta,GA,30307,Huco Consulting Inc.,Mr,11/3/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Terry,Winograd,Stanford,CA,94305,retired,retired,11/3/2016 12:00:00 AM,250,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Juliet,Cuming,E.Dummerston,VT,5346,Cuming-Shaw Media Inc.,Photo Archive,11/4/2016 12:00:00 AM,20,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Gabrielle,Dolphin,Alameda,CA,94501,Children's Hospital Oakland,Med practice mgr,11/4/2016 12:00:00 AM,20,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Michelle,Fisher,Mission Viejo,CA,92692,none,none,11/4/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Joe,Foos,Pleasanton,CA,94566,Not employed,Not employed,11/4/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Mary,Jebara,New York,NY,10023,Not employed,Not employed,11/4/2016 12:00:00 AM,250,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,D Caldwell,Jones,Petersburg,AK,99833,Not employed,Not employed,11/4/2016 12:00:00 AM,33.34,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,FREDERIC,MARSCHNER,Walnut Creek,CA,94596,(Self) Northwestern Mutual,Financial Rep,11/4/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Cheryl,Pullen,Shepherdstown,WV,25443,Not employed,Not employed,11/4/2016 12:00:00 AM,15,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Susan,Singh,Tulsa,OK,74105,,retired,11/4/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Lori,Wheeler,Shelton,WA,98584,Not employed,Not employed,11/4/2016 12:00:00 AM,33.34,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Belinda,Barcock,Greenwich,CT,6830,Not employed,Not employed,11/5/2016 12:00:00 AM,83.34,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Paul,Johnson,Agoura Hills,CA,91301,KellyMitchell Group,Engineer,11/5/2016 12:00:00 AM,44.44,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Paul,Johnson,Agoura Hills,CA,91301,KellyMitchell Group,Engineer,11/5/2016 12:00:00 AM,44.44,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Joan,Palmer,Pasadena,CA,91103,Not employed,Not employed,11/5/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Cheryl,Pullen,Shepherdstown,WV,25443,Not employed,Not employed,11/5/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Helen,Taplin,Newton,MA,2462,none,not employed,11/5/2016 12:00:00 AM,16.67,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Karen,Keegan,Martinez,CA,94553,none,Retired,11/6/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Julie,Mckee,Janesville,CA,96114,Not employed,Not employed,11/6/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Cheryl,Pullen,Shepherdstown,WV,25443,Not employed,Not employed,11/6/2016 12:00:00 AM,10,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,William,Schoene,Santa Monica,CA,90405,Not employed,Not employed,11/6/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,John,Watson,Santa Barbara,CA,93105,Not employed,Retired,11/6/2016 12:00:00 AM,1000,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Katrina,Frey,Redwood Valley,CA,95470,Frey Vineyards Ltd.,Sales,11/7/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Janet,Hinshaw-Thomas,Chester,PA,19013,Not employed,Not employed,11/7/2016 12:00:00 AM,20,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Cheryl,Pullen,Shepherdstown,WV,25443,Not employed,Not employed,11/7/2016 12:00:00 AM,5,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Jean,Scott,Chula Vista,CA,91914,Native Voices at the Autry,Theater Producer,11/7/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Kay,Taneyhill,San Francisco,CA,94114,Not employed,Not employed,11/7/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Wendy,Tsien,Eugene,OR,97405-9535,Not employed,Not employed,11/7/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Peter,Vierthaler,Seattle,WA,98103,self,Northwest Partners,11/7/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,,Friends of the Earth,Washington,DC,20005,,,11/8/2016 12:00:00 AM,1500,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Neil,Hunt,Los Altos,CA,94024,Netflix,Technical manager,11/8/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Cheryl,Pullen,Shepherdstown,WV,25443,Not employed,Not employed,11/8/2016 12:00:00 AM,10,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Robert,Ross,Fort Bragg,CA,95437,Self,Artist / Teacher,11/8/2016 12:00:00 AM,25,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Theodore,Smith,San Jose,CA,95112,self,environmental consultant,11/8/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Eric,Strid,White Salmon,WA,98672,not employed,not employed,11/8/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Sameer,Vyas,Atlanta,GA,30307,Huco Consulting Inc.,Mr,11/8/2016 12:00:00 AM,35,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Susan,Chilton,Burlingame,CA,94010,Not employed,Not employed,11/10/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Joe,Ely,Brentwood,CA,94513,Not employed,Not employed,11/10/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Loren,Kaplan,Pacific Palisades,CA,90272,none,none,11/10/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Eric,Strid,White Salmon,WA,98672,not employed,not employed,11/10/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Paul,Toussaint,Bloomfield,NJ,7003,Bloomfield Library,Librarian,11/10/2016 12:00:00 AM,50,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Luke,Hughes,Palo Alto,CA,94303,,,11/11/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Miriam,McLeod,Long Beach,CA,90808,none,not employed,11/11/2016 12:00:00 AM,28,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,STEPHEN,Urciuoli,Westport,CT,6883,PriMed,Doctor,11/11/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Robin,Bedell-Waite,El Sobrante,CA,94803,None,Retired,11/17/2016 12:00:00 AM,100,59
+2114415,1386909,"Overturn Citizens United, Yes on 59",SUPPORT,0,Jennifer,Tanner,Sedona,AZ,86339,self,consultant,11/23/2016 12:00:00 AM,-109.34,59
+2057495,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,,The Atlantic Advocacy Fund Inc.,New York,NY,10013,,,5/9/2016 12:00:00 AM,20000,59
+2057495,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,,The Atlantic Advocacy Fund Inc.,New York,NY,10013,,,5/17/2016 12:00:00 AM,40000,59
+2083076,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,,The Atlantic Advocacy Fund Inc,New York,NY,10013,,,7/1/2016 12:00:00 AM,4544.24,59
+2097793,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,,Proteus Fund,Amherst,MA,01002,,,10/7/2016 12:00:00 AM,14000,59
+2097793,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,,The Atlantic Advocacy Fund Inc,New York,NY,10013,,,9/25/2016 12:00:00 AM,2179.38,59
+2097793,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,Dagmar,Dolby,San Francisco,CA,94115,Homemaker,Homemaker,10/7/2016 12:00:00 AM,15000,59
+2129387,1386494,"Proteus Action League Non-Profit 501 (C)(4) Organization, Opposing Measure 66 and Supporting Measures 54 and 59",SUPPORT,0,,The Atlantic Advocacy Fund,New York,NY,10013,,,10/23/2016 12:00:00 AM,1066.50,59
+2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Derek,Cressman,Sacramento,CA,95816,Self Employed,Consultant,8/2/2016 12:00:00 AM,200,59
+2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Derek,Cressman,Sacramento,CA,95816,Self Employed,Consultant,8/14/2016 12:00:00 AM,100,59
+2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Steven,Purol,Famrington,MI,48331,Mango Languages,Software Craftsman,9/29/2016 12:00:00 AM,100,59
+2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Lori,Grace,Tiburon,CA,94920,Self Employed,teacher,9/29/2016 12:00:00 AM,100,59
+2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Alison,Geballe,San Francisco,CA,94123,not employed,not employed,9/29/2016 12:00:00 AM,100,59
+2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Deborah,Rose,Palo Alto,CA,94303,Self Employed,physician,9/29/2016 12:00:00 AM,100,59
+2095377,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Emil,Kraft,Bellevue,WA,98006,DeepView Solutions,consultant,9/29/2016 12:00:00 AM,100,59
+2118879,1387856,Make Them Listen - Yes on 59,SUPPORT,0,Derek,Cressman,Sacramento,CA,95816,self,consultant,12/20/2016 12:00:00 AM,212.81,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Edward,Kormundoy,Los Angeles,CA,90026,retired,retired,7/1/2016 12:00:00 AM,100,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Richard,Carson,Nevada City,CA,95959,retired,retired,7/3/2016 12:00:00 AM,100,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,James,Morrison,Huntington Beach,CA,92647,retired,retired,9/20/2016 12:00:00 AM,59,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Derek,Cressman,Sacramento,CA,95816,California Common Cause,campaign manager,9/21/2016 12:00:00 AM,159,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,James,Morrison,Huntington Beach,CA,92647,retired,retired,10/4/2016 12:00:00 AM,59,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Edith,Andrew-Akita,San Diego,CA,92107,retired,retired,10/4/2016 12:00:00 AM,100,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Matt,Bjork,Oakland,CA,94611,Nikon Precision,engineer,10/5/2016 12:00:00 AM,59,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Roy,Maffly,Palo Alto,CA,94301,retired,retired,10/5/2016 12:00:00 AM,59,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Bruce,Stenman,Prunedale,CA,93907,Lightsmith,manager,10/5/2016 12:00:00 AM,200,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Darlene,Little,Seal Beach,CA,90740,NOCCCD,Lecturer,10/5/2016 12:00:00 AM,159,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Michael,Marmor,Stanford,CA,94305,Stanford University,physician,10/5/2016 12:00:00 AM,250,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Roy,Maffly,Palo Alto,CA,94301,retired,retired,10/14/2016 12:00:00 AM,100,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Judith,Weiner,Los Angeles,CA,90005,retired,retired,10/14/2016 12:00:00 AM,118,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Don,Cottrell,San Diego,CA,92115,retired,retired,10/14/2016 12:00:00 AM,100,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Mark,Hoffman,San Rafael,CA,94907,retired,retired,10/14/2016 12:00:00 AM,100,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,,Proteus Action League,Amherst,MA,01002,,,10/17/2016 12:00:00 AM,14000,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,Mark,Bjork,Oakland,CA,94611,Nikon Precision,engineer,10/18/2016 12:00:00 AM,59,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,,California Common Cause,Los Angeles,CA,90013,,,10/22/2016 12:00:00 AM,10916.10,59
+2098058,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,,Voqal USA Philanthropy,Longmont,CO,80501,,,10/5/2016 12:00:00 AM,15000,59
+2130532,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,1,Thomas,Mowry,Redlands,CA,92007,retired,retired,11/3/2016 12:00:00 AM,250,59
+2130532,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,1,John,Garvey,Redondo Beach,CA,90277,retired,retired,11/3/2016 12:00:00 AM,159,59
+2130532,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,1,Jan,Wells,Redwood City,CA,94061,retired,retired,11/8/2016 12:00:00 AM,100,59
+2130532,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,1,,California Common Cause,Los Angeles,CA,90013,,,12/31/2016 12:00:00 AM,6857.74,59
+2133918,1389997,California Common Cause - Yes on 54 and 59 (NonProfit 501(C)(4),SUPPORT,0,,California Common Cause,Los Angeles,CA,90013,,,2/7/2017 12:00:00 AM,1325,59
