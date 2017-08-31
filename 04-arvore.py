@@ -227,6 +227,14 @@ t_WHO = label_encoder_WHO.transform(BinresTotAllProp.iloc[:, 1])
 BinresTotAllProp.iloc[:, 1] = t_WHO
 
 
+label_encoder_RESULT = enc.fit(BinresTotAllProp.iloc[:, 4])
+print "Categorical classes:", label_encoder_RESULT.classes_
+integer_classes_RESULT = label_encoder_RESULT.transform(label_encoder_RESULT.classes_)
+print "Integer classes:", integer_classes_RESULT
+t_RESULT = label_encoder_RESULT.transform(BinresTotAllProp.iloc[:, 4])
+BinresTotAllProp.iloc[:, 4] = t_RESULT
+
+
 print BinresTotAllProp.info()
 print BinresTotAllProp.head(3)
 
